@@ -1,0 +1,1281 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.6	//
+ALIGN	include/common.h	43;"	d
+AR	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/ARM_codes/Dct/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/ARM_codes/Dhry/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/ARM_codes/Mimo/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/ARM_codes/Sorts/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/ARM_codes/Turbo/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/THUMB_codes/Dct/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+AR	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^AR=$(CROSS_COMPILE)ar$/;"	m
+ARM_LR	include/arm.h	87;"	d
+ARM_PC	include/arm.h	88;"	d
+ARM_R0	include/arm.h	73;"	d
+ARM_R1	include/arm.h	74;"	d
+ARM_R10	include/arm.h	83;"	d
+ARM_R11	include/arm.h	84;"	d
+ARM_R12	include/arm.h	85;"	d
+ARM_R2	include/arm.h	75;"	d
+ARM_R3	include/arm.h	76;"	d
+ARM_R4	include/arm.h	77;"	d
+ARM_R5	include/arm.h	78;"	d
+ARM_R6	include/arm.h	79;"	d
+ARM_R7	include/arm.h	80;"	d
+ARM_R8	include/arm.h	81;"	d
+ARM_R9	include/arm.h	82;"	d
+ARM_RD	include/arm.h	90;"	d
+ARM_RM	include/arm.h	91;"	d
+ARM_RN	include/arm.h	92;"	d
+ARM_RS	include/arm.h	93;"	d
+ARM_SP	include/arm.h	86;"	d
+AS	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/ARM_codes/Dct/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/ARM_codes/Dhry/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/ARM_codes/Mimo/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/ARM_codes/Sorts/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/ARM_codes/Turbo/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/THUMB_codes/Dct/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+AS	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^AS=$(CROSS_COMPILE)as$/;"	m
+ASFLAGS	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/c_codes/ARM_codes/Dct/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/c_codes/ARM_codes/Dhry/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/c_codes/ARM_codes/Mimo/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/c_codes/ARM_codes/Sorts/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/c_codes/ARM_codes/Turbo/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^ASFLAGS	:=$/;"	m
+ASFLAGS	testbench/c_codes/THUMB_codes/Dct/Makefile	/^ASFLAGS	:= -mthumb$/;"	m
+ASFLAGS	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^ASFLAGS	:= -mthumb$/;"	m
+ASFLAGS	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^ASFLAGS	:= -mthumb$/;"	m
+ASFLAGS	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^ASFLAGS	:= -mthumb$/;"	m
+ASFLAGS	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^ASFLAGS	:= -mthumb$/;"	m
+ASFLAGS	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^ASFLAGS	:= -mthumb$/;"	m
+ASFLAGS	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^ASFLAGS	:= -mthumb$/;"	m
+ASFLAGS	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^ASFLAGS	:= -mthumb$/;"	m
+ASFLAGS	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^ASFLAGS	:= -mthumb$/;"	m
+Arr_1_Dim	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^typedef int     Arr_1_Dim [50];$/;"	t
+Arr_1_Dim	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^typedef int     Arr_1_Dim [50];$/;"	t
+Arr_1_Glob	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^int             Arr_1_Glob [50];$/;"	v
+Arr_1_Glob	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^int             Arr_1_Glob [50];$/;"	v
+Arr_2_Dim	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^typedef int     Arr_2_Dim [50] [50];$/;"	t
+Arr_2_Dim	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^typedef int     Arr_2_Dim [50] [50];$/;"	t
+Arr_2_Glob	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^int             Arr_2_Glob [50] [50];$/;"	v
+Arr_2_Glob	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^int             Arr_2_Glob [50] [50];$/;"	v
+BIT	include/common.h	50;"	d
+BLOCK_SIZE	testbench/c_codes/ARM_codes/Dct/src/dct.c	4;"	d	file:
+BLOCK_SIZE	testbench/c_codes/THUMB_codes/Dct/src/dct.c	4;"	d	file:
+BND	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	19;"	d	file:
+BND	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	19;"	d	file:
+Begin_Time	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^long            Begin_Time,$/;"	v
+Begin_Time	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^long            Begin_Time,$/;"	v
+Bool_Glob	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^Boolean         Bool_Glob;$/;"	v
+Bool_Glob	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^Boolean         Bool_Glob;$/;"	v
+Boolean	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^typedef int     Boolean;$/;"	t
+Boolean	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^typedef int     Boolean;$/;"	t
+CC	Configs.mk	/^CC				:=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/ARM_codes/Dct/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/ARM_codes/Dhry/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/ARM_codes/Mimo/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/ARM_codes/Sorts/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/ARM_codes/Turbo/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/THUMB_codes/Dct/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CC	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^CC=$(CROSS_COMPILE)gcc$/;"	m
+CFLAGS	Configs.mk	/^CFLAGS			:=-g -W -Wall $(INCLUDES) $(DEFINES)$/;"	m
+CFLAGS	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^CFLAGS	= -W -Wall -march=armv5t -mtune=arm926ej-s$/;"	m
+CFLAGS	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^CFLAGS	= -W -Wall -march=armv5t -mtune=arm926ej-s$/;"	m
+CFLAGS	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^CFLAGS	= -W -Wall -march=armv5t -mtune=arm926ej-s$/;"	m
+CFLAGS	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^CFLAGS	= -W -Wall -march=armv5t -mtune=arm926ej-s -mthumb$/;"	m
+CFLAGS	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^CFLAGS	= -W -Wall -march=armv5t -mtune=arm926ej-s -mthumb$/;"	m
+CFLAGS	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^CFLAGS	= -O1 -W -Wall -Wl,--Ttext,0 -nostartfiles -march=armv5t, -mtune=arm926ej-s$/;"	m
+CFLAGS	testbench/c_codes/ARM_codes/Dct/Makefile	/^CFLAGS	= -O1 -W -Wall -Wl,--Ttext,0 -nostartfiles -march=armv5t, -mtune=arm926ej-s$/;"	m
+CFLAGS	testbench/c_codes/ARM_codes/Dhry/Makefile	/^CFLAGS	= -O1 -W -Wall -Wl,--Ttext,0 -nostartfiles -march=armv5t, -mtune=arm926ej-s$/;"	m
+CFLAGS	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^CFLAGS	= -O1 -W -Wall -Wl,--Ttext,0 -nostartfiles -march=armv5t, -mtune=arm926ej-s$/;"	m
+CFLAGS	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^CFLAGS	= -O1 -W -Wall -Wl,--Ttext,0 -nostartfiles -march=armv5t, -mtune=arm926ej-s$/;"	m
+CFLAGS	testbench/c_codes/ARM_codes/Mimo/Makefile	/^CFLAGS	= -O1 -W -Wall -Wl,--Ttext,0 -nostartfiles -march=armv5t, -mtune=arm926ej-s$/;"	m
+CFLAGS	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^CFLAGS	= -O1 -W -Wall -Wl,--Ttext,0 -nostartfiles -march=armv5t, -mtune=arm926ej-s$/;"	m
+CFLAGS	testbench/c_codes/ARM_codes/Sorts/Makefile	/^CFLAGS	= -O1 -W -Wall -Wl,--Ttext,0 -nostartfiles -march=armv5t, -mtune=arm926ej-s$/;"	m
+CFLAGS	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^CFLAGS	= -O1 -W -Wall -Wl,--Ttext,0 -nostartfiles -march=armv5t, -mtune=arm926ej-s$/;"	m
+CFLAGS	testbench/c_codes/ARM_codes/Turbo/Makefile	/^CFLAGS	= -O1 -W -Wall -Wl,--Ttext,0 -nostartfiles -march=armv5t, -mtune=arm926ej-s$/;"	m
+CFLAGS	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^CFLAGS	= -O1 -W -Wall -Wl,--Ttext,0 -nostartfiles -march=armv5t, -mtune=arm926ej-s$/;"	m
+CFLAGS	testbench/c_codes/THUMB_codes/Dct/Makefile	/^CFLAGS	:= -O1 -W -Wall -Wl,-Ttext,0 -nostartfiles -march=armv5t -mtune=arm926ej-s -mthumb$/;"	m
+CFLAGS	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^CFLAGS	:= -O1 -W -Wall -Wl,-Ttext,0 -nostartfiles -march=armv5t -mtune=arm926ej-s -mthumb$/;"	m
+CFLAGS	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^CFLAGS	:= -O1 -W -Wall -Wl,-Ttext,0 -nostartfiles -march=armv5t -mtune=arm926ej-s -mthumb$/;"	m
+CFLAGS	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^CFLAGS	:= -O1 -W -Wall -Wl,-Ttext,0 -nostartfiles -march=armv5t -mtune=arm926ej-s -mthumb$/;"	m
+CFLAGS	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^CFLAGS	:= -O1 -W -Wall -Wl,-Ttext,0 -nostartfiles -march=armv5t -mtune=arm926ej-s -mthumb$/;"	m
+CFLAGS	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^CFLAGS	:= -O1 -W -Wall -Wl,-Ttext,0 -nostartfiles -march=armv5t -mtune=arm926ej-s -mthumb$/;"	m
+CFLAGS	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^CFLAGS	:= -O1 -W -Wall -Wl,-Ttext,0 -nostartfiles -march=armv5t -mtune=arm926ej-s -mthumb$/;"	m
+CFLAGS	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^CFLAGS	:= -O1 -W -Wall -Wl,-Ttext,0 -nostartfiles -march=armv5t -mtune=arm926ej-s -mthumb$/;"	m
+CFLAGS	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^CFLAGS	:= -O1 -W -Wall -Wl,-Ttext,0 -nostartfiles -march=armv5t -mtune=arm926ej-s -mthumb$/;"	m
+CHAR_BACKSPACE	common/lib_string.h	9;"	d
+CHAR_CR	common/lib_string.h	7;"	d
+CHAR_DOWN	common/lib_string.h	14;"	d
+CHAR_ESC	common/lib_string.h	8;"	d
+CHAR_LEFT	common/lib_string.h	16;"	d
+CHAR_LF	common/lib_string.h	6;"	d
+CHAR_RIGHT	common/lib_string.h	15;"	d
+CHAR_SPACE	common/lib_string.h	11;"	d
+CHAR_TAB	common/lib_string.h	10;"	d
+CHAR_UP	common/lib_string.h	13;"	d
+CODE_K	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	18;"	d
+CODE_K	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	18;"	d
+CODE_M	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	20;"	d
+CODE_M	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	20;"	d
+CODE_N	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	17;"	d
+CODE_N	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	17;"	d
+CODE_T	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	19;"	d
+CODE_T	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	19;"	d
+COMMAND_STACK_SIZE	common/lib_string.h	17;"	d
+COM_STACK	common/lib_string.c	/^static int8s_t COM_STACK[COMMAND_STACK_SIZE][64];$/;"	v	file:
+COPY	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/ARM_codes/Dct/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/ARM_codes/Dhry/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/ARM_codes/Mimo/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/ARM_codes/Sorts/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/ARM_codes/Turbo/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/THUMB_codes/Dct/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+COPY	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^COPY=$(CROSS_COMPILE)objcopy$/;"	m
+CPSR_GET_C	include/arm.h	55;"	d
+CPSR_GET_FIQ	include/arm.h	60;"	d
+CPSR_GET_FLAG	include/arm.h	58;"	d
+CPSR_GET_IRQ	include/arm.h	59;"	d
+CPSR_GET_MODE	include/arm.h	57;"	d
+CPSR_GET_N	include/arm.h	53;"	d
+CPSR_GET_NZCV	include/arm.h	52;"	d
+CPSR_GET_THUMB	include/arm.h	61;"	d
+CPSR_GET_V	include/arm.h	56;"	d
+CPSR_GET_Z	include/arm.h	54;"	d
+CPSR_SET_C	include/arm.h	65;"	d
+CPSR_SET_FIQ	include/arm.h	70;"	d
+CPSR_SET_FLAG	include/arm.h	68;"	d
+CPSR_SET_IRQ	include/arm.h	69;"	d
+CPSR_SET_MODE	include/arm.h	67;"	d
+CPSR_SET_N	include/arm.h	63;"	d
+CPSR_SET_THUMB	include/arm.h	71;"	d
+CPSR_SET_V	include/arm.h	66;"	d
+CPSR_SET_Z	include/arm.h	64;"	d
+CPUState_t	include/arm.h	/^} CPUState_t;$/;"	t	typeref:struct:_CPUState
+CRC_gen	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^void CRC_gen(unsigned char data)$/;"	f
+CRC_genpol	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^unsigned char CRC_genpol[24] = {1,1,0,1,1,1,1,1,0,0,1,1,0,0,1,0,0,1,1,0,0,0,0,1};$/;"	v
+CRC_register	testbench/c_codes/ARM_codes/Turbo/src/header/crc.h	/^unsigned char CRC_register[24] ;\/\/__attribute__((section(".crc"))) = {0} ;$/;"	v
+CRC_test	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^unsigned char CRC_test()$/;"	f
+CROSS_COMPILE	Configs.mk	/^CROSS_COMPILE	:=$/;"	m
+CROSS_COMPILE	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/ARM_codes/Dct/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/ARM_codes/Dhry/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/ARM_codes/Mimo/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/ARM_codes/Sorts/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/ARM_codes/Turbo/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/THUMB_codes/Dct/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CROSS_COMPILE	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^CROSS_COMPILE=arm-none-linux-gnueabi-$/;"	m
+CRTOBJS	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/ARM_codes/Dct/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/ARM_codes/Dhry/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/ARM_codes/Mimo/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/ARM_codes/Sorts/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/ARM_codes/Turbo/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/THUMB_codes/Dct/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTOBJS	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^CRTOBJS	:=$(CRTSRCS:%.S=%.o)$/;"	m
+CRTSRCS	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/ARM_codes/Dct/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/ARM_codes/Dhry/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/ARM_codes/Mimo/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/ARM_codes/Sorts/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/ARM_codes/Turbo/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/THUMB_codes/Dct/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+CRTSRCS	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^CRTSRCS	:=$(SRCDIR)\/crti.S$/;"	m
+Capital_Letter	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^typedef char    Capital_Letter;$/;"	t
+Capital_Letter	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^typedef char    Capital_Letter;$/;"	t
+Ch_1_Comp	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^                  char        Ch_1_Comp;$/;"	m	struct:record::__anon3::__anon6
+Ch_1_Comp	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^                  char        Ch_1_Comp;$/;"	m	struct:record::__anon9::__anon12
+Ch_1_Glob	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^char            Ch_1_Glob,$/;"	v
+Ch_1_Glob	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^char            Ch_1_Glob,$/;"	v
+Ch_2_Comp	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^                  char        Ch_2_Comp;$/;"	m	struct:record::__anon3::__anon6
+Ch_2_Comp	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^                  char        Ch_2_Comp;$/;"	m	struct:record::__anon9::__anon12
+Ch_2_Glob	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^                Ch_2_Glob;$/;"	v
+Ch_2_Glob	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^                Ch_2_Glob;$/;"	v
+Check_valid	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^unsigned int	Check_valid= 0;$/;"	v
+Check_valid	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^unsigned int	Check_valid= 0;$/;"	v
+CodeLen	testbench/c_codes/ARM_codes/Turbo/src/header/top.h	2;"	d
+Complex_Mul_Img	testbench/c_codes/ARM_codes/Mfcc/src/util.c	/^MDATA Complex_Mul_Img(MDATA a,MDATA b,MDATA c,MDATA d)$/;"	f
+Complex_Mul_Img	testbench/c_codes/THUMB_codes/Mfcc/src/util.c	/^MDATA Complex_Mul_Img(MDATA a,MDATA b,MDATA c,MDATA d)$/;"	f
+Complex_Mul_Real	testbench/c_codes/ARM_codes/Mfcc/src/util.c	/^MDATA Complex_Mul_Real(MDATA a,MDATA b,MDATA c,MDATA d)$/;"	f
+Complex_Mul_Real	testbench/c_codes/THUMB_codes/Mfcc/src/util.c	/^MDATA Complex_Mul_Real(MDATA a,MDATA b,MDATA c,MDATA d)$/;"	f
+DEFINES	Configs.mk	/^DEFINES			:=-DDEBUG$/;"	m
+DONE	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/ARM_codes/Dct/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/ARM_codes/Dhry/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/ARM_codes/Mimo/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/ARM_codes/Sorts/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/ARM_codes/Turbo/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/THUMB_codes/Dct/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DONE	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^DONE=@if [ -f $(1) ]; then echo Build completed.; fi$/;"	m
+DUMP	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/ARM_codes/Dct/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/ARM_codes/Dhry/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/ARM_codes/Mimo/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/ARM_codes/Sorts/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/ARM_codes/Turbo/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/THUMB_codes/Dct/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+DUMP	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^DUMP=$(CROSS_COMPILE)objdump$/;"	m
+Dct_Norm	testbench/c_codes/ARM_codes/Mfcc/src/dct.c	3;"	d	file:
+Dct_Norm	testbench/c_codes/ARM_codes/Mfcc/src/util.h	30;"	d
+Dct_Norm	testbench/c_codes/THUMB_codes/Mfcc/src/dct.c	3;"	d	file:
+Dct_Norm	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	30;"	d
+Discr	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^    Enumeration    Discr;$/;"	m	struct:record
+Discr	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^    Enumeration    Discr;$/;"	m	struct:record
+EXP1	testbench/c_codes/ARM_codes/Mfcc/src/util.h	28;"	d
+EXP1	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	28;"	d
+E_Comp_2	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^                  Enumeration E_Comp_2;$/;"	m	struct:record::__anon3::__anon5
+E_Comp_2	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^                  Enumeration E_Comp_2;$/;"	m	struct:record::__anon9::__anon11
+End_Time	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^				End_Time,$/;"	v
+End_Time	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^				End_Time,$/;"	v
+Enum_Comp	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^                  Enumeration Enum_Comp;$/;"	m	struct:record::__anon3::__anon4
+Enum_Comp	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^                  Enumeration Enum_Comp;$/;"	m	struct:record::__anon9::__anon10
+Enumeration	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^                Enumeration;$/;"	t	typeref:enum:__anon2
+Enumeration	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^  typedef int   Enumeration;$/;"	t
+Enumeration	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^                Enumeration;$/;"	t	typeref:enum:__anon8
+Enumeration	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^  typedef int   Enumeration;$/;"	t
+From_img	testbench/c_codes/ARM_codes/Mfcc/src/dft.c	/^MDATA From_img[numfft];$/;"	v
+From_img	testbench/c_codes/THUMB_codes/Mfcc/src/dft.c	/^MDATA From_img[numfft];$/;"	v
+From_real	testbench/c_codes/ARM_codes/Mfcc/src/dft.c	/^MDATA From_real[numfft];$/;"	v
+From_real	testbench/c_codes/THUMB_codes/Mfcc/src/dft.c	/^MDATA From_real[numfft];$/;"	v
+Func_1	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^Enumeration Func_1 (Ch_1_Par_Val, Ch_2_Par_Val)$/;"	f
+Func_1	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^Enumeration Func_1 (Ch_1_Par_Val, Ch_2_Par_Val)$/;"	f
+Func_2	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^Boolean Func_2 (Str_1_Par_Ref, Str_2_Par_Ref)$/;"	f
+Func_2	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^Boolean Func_2 (Str_1_Par_Ref, Str_2_Par_Ref)$/;"	f
+Func_3	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^Boolean Func_3 (Enum_Par_Val)$/;"	f
+Func_3	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^Boolean Func_3 (Enum_Par_Val)$/;"	f
+GET	include/common.h	45;"	d
+GET	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	21;"	d
+GET	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	21;"	d
+I2MDATA	testbench/c_codes/ARM_codes/Mfcc/src/util.c	/^MDATA I2MDATA(int inputvalue)$/;"	f
+I2MDATA	testbench/c_codes/THUMB_codes/Mfcc/src/util.c	/^MDATA I2MDATA(int inputvalue)$/;"	f
+INCLUDES	Configs.mk	/^INCLUDES		:=-I. -I$(TOPDIR)\/include -I$(TOPDIR)\/common$/;"	m
+ITERATIONS	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	13;"	d	file:
+ITERATIONS	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	13;"	d	file:
+Ident_1	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^  typedef       enum    {Ident_1, Ident_2, Ident_3, Ident_4, Ident_5}$/;"	e	enum:__anon2
+Ident_1	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	380;"	d
+Ident_1	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^  typedef       enum    {Ident_1, Ident_2, Ident_3, Ident_4, Ident_5}$/;"	e	enum:__anon8
+Ident_1	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	380;"	d
+Ident_2	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^  typedef       enum    {Ident_1, Ident_2, Ident_3, Ident_4, Ident_5}$/;"	e	enum:__anon2
+Ident_2	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	381;"	d
+Ident_2	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^  typedef       enum    {Ident_1, Ident_2, Ident_3, Ident_4, Ident_5}$/;"	e	enum:__anon8
+Ident_2	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	381;"	d
+Ident_3	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^  typedef       enum    {Ident_1, Ident_2, Ident_3, Ident_4, Ident_5}$/;"	e	enum:__anon2
+Ident_3	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	382;"	d
+Ident_3	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^  typedef       enum    {Ident_1, Ident_2, Ident_3, Ident_4, Ident_5}$/;"	e	enum:__anon8
+Ident_3	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	382;"	d
+Ident_4	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^  typedef       enum    {Ident_1, Ident_2, Ident_3, Ident_4, Ident_5}$/;"	e	enum:__anon2
+Ident_4	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	383;"	d
+Ident_4	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^  typedef       enum    {Ident_1, Ident_2, Ident_3, Ident_4, Ident_5}$/;"	e	enum:__anon8
+Ident_4	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	383;"	d
+Ident_5	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^  typedef       enum    {Ident_1, Ident_2, Ident_3, Ident_4, Ident_5}$/;"	e	enum:__anon2
+Ident_5	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	384;"	d
+Ident_5	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^  typedef       enum    {Ident_1, Ident_2, Ident_3, Ident_4, Ident_5}$/;"	e	enum:__anon8
+Ident_5	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	384;"	d
+Init	testbench/c_codes/ARM_codes/Galoisfield/src/main.c	/^void Init(unsigned int m)$/;"	f
+Init	testbench/c_codes/THUMB_codes/Galoisfield/src/main.c	/^void Init(unsigned int m)$/;"	f
+Insertceps	testbench/c_codes/ARM_codes/Mfcc/src/mfcc.c	/^int Insertceps(MDATA* input)$/;"	f
+Insertceps	testbench/c_codes/THUMB_codes/Mfcc/src/mfcc.c	/^int Insertceps(MDATA* input)$/;"	f
+Instruction_t	include/arm.h	/^} Instruction_t;$/;"	t	typeref:struct:_instruction
+Int_Comp	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^                  int         Int_Comp;$/;"	m	struct:record::__anon3::__anon4
+Int_Comp	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^                  int         Int_Comp;$/;"	m	struct:record::__anon9::__anon10
+Int_Glob	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^int             Int_Glob;$/;"	v
+Int_Glob	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^int             Int_Glob;$/;"	v
+Inv_EXP1	testbench/c_codes/ARM_codes/Mfcc/src/util.h	29;"	d
+Inv_EXP1	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	29;"	d
+LD	Configs.mk	/^LD				:=ld$/;"	m
+LD	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/ARM_codes/Dct/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/ARM_codes/Dhry/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/ARM_codes/Mimo/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/ARM_codes/Sorts/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/ARM_codes/Turbo/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/THUMB_codes/Dct/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LD	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^LD=$(CROSS_COMPILE)ld$/;"	m
+LDFLAGS	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^LDFLAGS	= -Ttext 0x0 -nostartfiles -nostdlib$/;"	m
+LDFLAGS	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^LDFLAGS	= -Ttext 0x0 -nostartfiles -nostdlib$/;"	m
+LDFLAGS	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^LDFLAGS	= -Ttext 0x0 -nostartfiles -nostdlib$/;"	m
+LDFLAGS	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^LDFLAGS	= -Ttext 0x0 -nostartfiles -nostdlib$/;"	m
+LDFLAGS	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^LDFLAGS	= -Ttext 0x0 -nostartfiles -nostdlib$/;"	m
+LDFLAGS	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^LDFLAGS	= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/ARM_codes/Dct/Makefile	/^LDFLAGS	= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/ARM_codes/Dhry/Makefile	/^LDFLAGS	= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^LDFLAGS	= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^LDFLAGS	= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/ARM_codes/Mimo/Makefile	/^LDFLAGS	= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^LDFLAGS	= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/ARM_codes/Sorts/Makefile	/^LDFLAGS	= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^LDFLAGS	= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/ARM_codes/Turbo/Makefile	/^LDFLAGS	= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^LDFLAGS	= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/THUMB_codes/Dct/Makefile	/^LDFLAGS	:= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^LDFLAGS	:= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^LDFLAGS	:= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^LDFLAGS	:= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^LDFLAGS	:= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^LDFLAGS	:= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^LDFLAGS	:= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^LDFLAGS	:= --Ttext 0x0 -nostartfiles$/;"	m
+LDFLAGS	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^LDFLAGS	:= --Ttext 0x0 -nostartfiles$/;"	m
+LLR_unit	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^int LLR_unit(int time, int rcvp)\/\/, int pma, int pmb)$/;"	f
+LOG10_N	testbench/c_codes/ARM_codes/Sorts/src/sorts.c	12;"	d	file:
+LOG10_N	testbench/c_codes/THUMB_codes/Sorts/src/sorts.c	12;"	d	file:
+MAX_CMD_SIZE	main/main.c	10;"	d	file:
+MAX_TOKEN_NUM	main/main.c	11;"	d	file:
+MAX_TOKEN_SIZE	main/main.c	12;"	d	file:
+MDATA	testbench/c_codes/ARM_codes/Mfcc/src/util.h	4;"	d
+MDATA	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	4;"	d
+MKHEX	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/ARM_codes/Dct/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/ARM_codes/Dhry/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/ARM_codes/Mimo/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/ARM_codes/Sorts/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/ARM_codes/Turbo/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/THUMB_codes/Dct/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MKHEX	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^MKHEX=\/home\/member\/djyoon\/mybin\/B2H_CONVERTER $(1) $(2)$/;"	m
+MODE_ABT	include/arm.h	48;"	d
+MODE_FIQ	include/arm.h	45;"	d
+MODE_IRQ	include/arm.h	46;"	d
+MODE_SVR	include/arm.h	47;"	d
+MODE_SYS	include/arm.h	50;"	d
+MODE_UND	include/arm.h	49;"	d
+MODE_USR	include/arm.h	44;"	d
+MPre	testbench/c_codes/ARM_codes/Mfcc/src/util.h	32;"	d
+MPre	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	32;"	d
+MYLIBDIR	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^MYLIBDIR:= \/home\/member\/djyoon\/mylib$/;"	m
+MaxIter	testbench/c_codes/ARM_codes/Turbo/src/header/top.h	/^int MaxIter;$/;"	v
+Mic_secs_Per_Second	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	370;"	d
+Mic_secs_Per_Second	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	370;"	d
+MulLLReal	testbench/c_codes/ARM_codes/Mfcc/src/util.c	/^long long int MulLLReal(MDATA a, MDATA b)$/;"	f
+MulLLReal	testbench/c_codes/THUMB_codes/Mfcc/src/util.c	/^long long int MulLLReal(MDATA a, MDATA b)$/;"	f
+MulReal	testbench/c_codes/ARM_codes/Mfcc/src/util.c	/^MDATA MulReal(MDATA a, MDATA b)$/;"	f
+MulReal	testbench/c_codes/THUMB_codes/Mfcc/src/util.c	/^MDATA MulReal(MDATA a, MDATA b)$/;"	f
+N	testbench/c_codes/ARM_codes/Sorts/src/sorts.c	6;"	d	file:
+N	testbench/c_codes/THUMB_codes/Sorts/src/sorts.c	6;"	d	file:
+NCONST	testbench/c_codes/ARM_codes/Mimo/src/mimo.c	4;"	d	file:
+NCONST	testbench/c_codes/THUMB_codes/Mimo/src/mimo.c	4;"	d	file:
+NLAYER	testbench/c_codes/ARM_codes/Mimo/src/mimo.c	3;"	d	file:
+NLAYER	testbench/c_codes/THUMB_codes/Mimo/src/mimo.c	3;"	d	file:
+NORM	testbench/c_codes/ARM_codes/Mfcc/src/util.h	27;"	d
+NORM	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	27;"	d
+N_FORMAT	testbench/c_codes/ARM_codes/Sorts/src/sorts.c	13;"	d	file:
+N_FORMAT	testbench/c_codes/THUMB_codes/Sorts/src/sorts.c	13;"	d	file:
+Next_Ptr_Glob	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^                Next_Ptr_Glob;$/;"	v
+Next_Ptr_Glob	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^                Next_Ptr_Glob;$/;"	v
+Null	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	399;"	d
+Null	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	399;"	d
+NumState	testbench/c_codes/ARM_codes/Turbo/src/header/top.h	3;"	d
+OBJ0	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^OBJ0	:=$(patsubst %.S, %.o, $(SRC0))$/;"	m
+OBJ0	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^OBJ0	:=$(patsubst %.S, %.o, $(SRC0))$/;"	m
+OBJ1	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^OBJ1	:=$(patsubst %.S, %.o, $(SRC1))$/;"	m
+OBJ1	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^OBJ1	:=$(patsubst %.S, %.o, $(SRC1))$/;"	m
+OBJS	common/Makefile	/^OBJS	:= $(patsubst %.S, %.o, $(wildcard *.S))$/;"	m
+OBJS	main/Makefile	/^OBJS	:= $(patsubst %.S, %.o, $(wildcard *.S))$/;"	m
+OBJS	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^OBJS	:=$(patsubst %.S, %.o, $(wildcard $(SRCDIR)\/*.S))$/;"	m
+OBJS	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^OBJS	:=$(patsubst %.S, %.o, $(wildcard $(SRCDIR)\/*.S))$/;"	m
+OBJS	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^OBJS	:=$(patsubst %.S, %.o, $(wildcard $(SRCDIR)\/*.S))$/;"	m
+OBJS	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/ARM_codes/Dct/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/ARM_codes/Dhry/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/ARM_codes/Mimo/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/ARM_codes/Sorts/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/ARM_codes/Turbo/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/THUMB_codes/Dct/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^OBJS	:=$(SRCS:%.c=%.o)$/;"	m
+OBJS	thumb/Makefile	/^OBJS	:= $(patsubst %.S, %.o, $(wildcard *.S))$/;"	m
+OBJS	thumb/thumb1/Makefile	/^OBJS	:= $(patsubst %.S, %.o, $(wildcard *.S))$/;"	m
+One_Fifty	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^typedef int     One_Fifty;$/;"	t
+One_Fifty	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^typedef int     One_Fifty;$/;"	t
+One_Thirty	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^typedef int     One_Thirty;$/;"	t
+One_Thirty	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^typedef int     One_Thirty;$/;"	t
+Proc_1	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^Proc_1 (Ptr_Val_Par)$/;"	f
+Proc_1	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^Proc_1 (Ptr_Val_Par)$/;"	f
+Proc_2	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^Proc_2 (Int_Par_Ref)$/;"	f
+Proc_2	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^Proc_2 (Int_Par_Ref)$/;"	f
+Proc_3	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^Proc_3 (Ptr_Ref_Par)$/;"	f
+Proc_3	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^Proc_3 (Ptr_Ref_Par)$/;"	f
+Proc_4	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^Proc_4 () \/* without parameters *\/$/;"	f
+Proc_4	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^Proc_4 () \/* without parameters *\/$/;"	f
+Proc_5	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^Proc_5 () \/* without parameters *\/$/;"	f
+Proc_5	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^Proc_5 () \/* without parameters *\/$/;"	f
+Proc_6	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^Proc_6 (Enum_Val_Par, Enum_Ref_Par)$/;"	f
+Proc_6	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^Proc_6 (Enum_Val_Par, Enum_Ref_Par)$/;"	f
+Proc_7	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^Proc_7 (Int_1_Par_Val, Int_2_Par_Val, Int_Par_Ref)$/;"	f
+Proc_7	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^Proc_7 (Int_1_Par_Val, Int_2_Par_Val, Int_Par_Ref)$/;"	f
+Proc_8	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^Proc_8 (Arr_1_Par_Ref, Arr_2_Par_Ref, Int_1_Par_Val, Int_2_Par_Val)$/;"	f
+Proc_8	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^Proc_8 (Arr_1_Par_Ref, Arr_2_Par_Ref, Int_1_Par_Val, Int_2_Par_Val)$/;"	f
+Ptr_Comp	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^    struct record *Ptr_Comp;$/;"	m	struct:record	typeref:struct:record::record
+Ptr_Comp	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^    struct record *Ptr_Comp;$/;"	m	struct:record	typeref:struct:record::record
+Ptr_Glob	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^Rec_Pointer     Ptr_Glob,$/;"	v
+Ptr_Glob	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^Rec_Pointer     Ptr_Glob,$/;"	v
+REG	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	41;"	d	file:
+REG	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	495;"	d	file:
+REG	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	41;"	d	file:
+REG	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	495;"	d	file:
+RM	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/ARM_codes/Dct/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/ARM_codes/Dhry/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/ARM_codes/Mimo/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/ARM_codes/Sorts/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/ARM_codes/Turbo/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/THUMB_codes/Dct/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^RM=rm -rf $(1)$/;"	m
+RM	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^RM=rm -rf $(1)$/;"	m
+Rec_Pointer	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^      } Rec_Type, *Rec_Pointer;$/;"	t	typeref:struct:record
+Rec_Pointer	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^      } Rec_Type, *Rec_Pointer;$/;"	t	typeref:struct:record
+Rec_Type	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^      } Rec_Type, *Rec_Pointer;$/;"	t	typeref:struct:record
+Rec_Type	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^      } Rec_Type, *Rec_Pointer;$/;"	t	typeref:struct:record
+Reg	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^Boolean Reg = false;$/;"	v
+Reg	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^Boolean Reg = true;$/;"	v
+Reg	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^Boolean Reg = false;$/;"	v
+Reg	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^Boolean Reg = true;$/;"	v
+SET	include/common.h	46;"	d
+SET	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	22;"	d
+SET	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	22;"	d
+SET_BITS	include/common.h	47;"	d
+SRC0	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^SRC0	:=$(SRCDIR)\/ld_str.S$/;"	m
+SRC0	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^SRC0	:=$(SRCDIR)\/ld_str.S$/;"	m
+SRC1	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^SRC1	:=$(SRCDIR)\/ldm_stm.S$/;"	m
+SRC1	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^SRC1	:=$(SRCDIR)\/ldm_stm.S$/;"	m
+SRCDIR	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/ARM_codes/Dct/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/ARM_codes/Dhry/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/ARM_codes/Mimo/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/ARM_codes/Sorts/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/ARM_codes/Turbo/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/THUMB_codes/Dct/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCDIR	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^SRCDIR	:=.\/src$/;"	m
+SRCS	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.S)$/;"	m
+SRCS	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.S)$/;"	m
+SRCS	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.S)$/;"	m
+SRCS	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/ARM_codes/Dct/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/ARM_codes/Dhry/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/ARM_codes/Mimo/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/ARM_codes/Sorts/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/ARM_codes/Turbo/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/THUMB_codes/Dct/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SRCS	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^SRCS	:=$(wildcard $(SRCDIR)\/*.c)$/;"	m
+SUBBITS	include/common.h	48;"	d
+SUBDIRS	Makefile	/^SUBDIRS	:= common thumb main $/;"	m
+SUBDIRS	common/Makefile	/^SUBDIRS	:= $/;"	m
+SUBDIRS	main/Makefile	/^SUBDIRS	:= $/;"	m
+SUBDIRS	testbench/asm_codes/ARM_codes/Makefile	/^SUBDIRS	:=data_proc interrupt ld_str$/;"	m
+SUBDIRS	testbench/asm_codes/THUMB_codes/Makefile	/^SUBDIRS	:=data_proc$/;"	m
+SUBDIRS	testbench/c_codes/ARM_codes/Makefile	/^SUBDIRS	:=Bubble_sort Dct Dhry Galoisfield Mfcc Mimo Modular_square Sorts Tree_traversal Turbo Whetstone$/;"	m
+SUBDIRS	testbench/c_codes/THUMB_codes/Makefile	/^SUBDIRS	:=Dct Dhry Galoisfield Mfcc Mimo Modular_square Sorts Tree_traversal Whetstone$/;"	m
+SUBDIRS	thumb/Makefile	/^SUBDIRS	:= thumb1$/;"	m
+SUBDIRS	thumb/thumb1/Makefile	/^SUBDIRS	:= $/;"	m
+Shift	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^unsigned char Shift(unsigned char in)$/;"	f
+Shift2	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^unsigned char Shift2(unsigned char in)$/;"	f
+ShiftReg	testbench/c_codes/ARM_codes/Turbo/src/header/init.h	/^unsigned char ShiftReg[3];$/;"	v
+ShiftReg2	testbench/c_codes/ARM_codes/Turbo/src/header/init.h	/^unsigned char ShiftReg2[3];$/;"	v
+SqrSum	testbench/c_codes/ARM_codes/Mfcc/src/util.c	/^long long int SqrSum(MDATA a, MDATA b)$/;"	f
+SqrSum	testbench/c_codes/THUMB_codes/Mfcc/src/util.c	/^long long int SqrSum(MDATA a, MDATA b)$/;"	f
+Stack_Ptr	common/lib_string.c	/^static int8s_t Stack_Ptr = 0;$/;"	v	file:
+Str_2_Comp	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^                  char        Str_2_Comp [31];$/;"	m	struct:record::__anon3::__anon5
+Str_2_Comp	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^                  char        Str_2_Comp [31];$/;"	m	struct:record::__anon9::__anon11
+Str_30	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^typedef char    Str_30 [31];$/;"	t
+Str_30	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^typedef char    Str_30 [31];$/;"	t
+Str_Comp	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^                  char        Str_Comp [31];$/;"	m	struct:record::__anon3::__anon4
+Str_Comp	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^                  char        Str_Comp [31];$/;"	m	struct:record::__anon9::__anon10
+TARGET	Makefile	/^TARGET	:=ARMISS$/;"	m
+TARGET	common/Makefile	/^TARGET	:= built-in.o$/;"	m
+TARGET	main/Makefile	/^TARGET	:= built-in.o$/;"	m
+TARGET	testbench/asm_codes/ARM_codes/data_proc/Makefile	/^TARGET	=data_proc$/;"	m
+TARGET	testbench/asm_codes/ARM_codes/interrupt/Makefile	/^TARGET	=interrupt$/;"	m
+TARGET	testbench/asm_codes/THUMB_codes/data_proc/Makefile	/^TARGET	=data_proc$/;"	m
+TARGET	testbench/c_codes/ARM_codes/Bubble_sort/Makefile	/^TARGET	=bubble_sort$/;"	m
+TARGET	testbench/c_codes/ARM_codes/Dct/Makefile	/^TARGET	=dct$/;"	m
+TARGET	testbench/c_codes/ARM_codes/Dhry/Makefile	/^TARGET	=dhry$/;"	m
+TARGET	testbench/c_codes/ARM_codes/Galoisfield/Makefile	/^TARGET	=gfield$/;"	m
+TARGET	testbench/c_codes/ARM_codes/Mfcc/Makefile	/^TARGET	=mfcc$/;"	m
+TARGET	testbench/c_codes/ARM_codes/Mimo/Makefile	/^TARGET	=mimo$/;"	m
+TARGET	testbench/c_codes/ARM_codes/Modular_square/Makefile	/^TARGET	=modular_square$/;"	m
+TARGET	testbench/c_codes/ARM_codes/Sorts/Makefile	/^TARGET	=sort$/;"	m
+TARGET	testbench/c_codes/ARM_codes/Tree_traversal/Makefile	/^TARGET	=tree_traversal$/;"	m
+TARGET	testbench/c_codes/ARM_codes/Turbo/Makefile	/^TARGET	=turbo$/;"	m
+TARGET	testbench/c_codes/ARM_codes/Whetstone/Makefile	/^TARGET	=whetstone$/;"	m
+TARGET	testbench/c_codes/THUMB_codes/Dct/Makefile	/^TARGET	=dct$/;"	m
+TARGET	testbench/c_codes/THUMB_codes/Dhry/Makefile	/^TARGET	=dhry$/;"	m
+TARGET	testbench/c_codes/THUMB_codes/Galoisfield/Makefile	/^TARGET	=gfield$/;"	m
+TARGET	testbench/c_codes/THUMB_codes/Mfcc/Makefile	/^TARGET	=mfcc$/;"	m
+TARGET	testbench/c_codes/THUMB_codes/Mimo/Makefile	/^TARGET	=mimo$/;"	m
+TARGET	testbench/c_codes/THUMB_codes/Modular_square/Makefile	/^TARGET	=modular_square$/;"	m
+TARGET	testbench/c_codes/THUMB_codes/Sorts/Makefile	/^TARGET	=sort$/;"	m
+TARGET	testbench/c_codes/THUMB_codes/Tree_traversal/Makefile	/^TARGET	=tree_traversal$/;"	m
+TARGET	testbench/c_codes/THUMB_codes/Whetstone/Makefile	/^TARGET	=whetstone$/;"	m
+TARGET	thumb/Makefile	/^TARGET	:= built-in.o$/;"	m
+TARGET	thumb/thumb1/Makefile	/^TARGET	:= built-in.o$/;"	m
+TARGET0	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^TARGET0	=ld_str$/;"	m
+TARGET0	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^TARGET0	=ld_str$/;"	m
+TARGET1	testbench/asm_codes/ARM_codes/ld_str/Makefile	/^TARGET1	=ldm_stm$/;"	m
+TARGET1	testbench/asm_codes/THUMB_codes/ld_str/Makefile	/^TARGET1	=ldm_stm$/;"	m
+TOPDIR	Makefile	/^TOPDIR	:=$(shell \/bin\/pwd)$/;"	m
+TOPDIR	common/Makefile	/^TOPDIR	:= ..$/;"	m
+TOPDIR	main/Makefile	/^TOPDIR	:= ..$/;"	m
+TOPDIR	thumb/Makefile	/^TOPDIR	:= ..$/;"	m
+TOPDIR	thumb/thumb1/Makefile	/^TOPDIR	:= ..\/..$/;"	m
+To_img	testbench/c_codes/ARM_codes/Mfcc/src/dft.c	/^MDATA To_img[numfft];$/;"	v
+To_img	testbench/c_codes/THUMB_codes/Mfcc/src/dft.c	/^MDATA To_img[numfft];$/;"	v
+To_real	testbench/c_codes/ARM_codes/Mfcc/src/dft.c	/^MDATA To_real[numfft];$/;"	v
+To_real	testbench/c_codes/THUMB_codes/Mfcc/src/dft.c	/^MDATA To_real[numfft];$/;"	v
+Tolower	include/my_ctype.h	/^unsigned char Tolower(unsigned char c)$/;"	f
+Too_Small_Time	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	61;"	d	file:
+Too_Small_Time	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	61;"	d	file:
+Toupper	include/my_ctype.h	/^unsigned char Toupper(unsigned char c)$/;"	f
+UNDER_POINT_COUNT	testbench/c_codes/ARM_codes/Mfcc/src/util.h	23;"	d
+UNDER_POINT_COUNT	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	23;"	d
+USUBBITS	include/common.h	49;"	d
+UTIL	testbench/c_codes/ARM_codes/Mfcc/src/util.h	2;"	d
+UTIL	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	2;"	d
+User_Time	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^				User_Time;$/;"	v
+User_Time	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^				User_Time;$/;"	v
+WORD_SIZE	include/common.h	41;"	d
+_ARMV5_H_	arm/armv5/armv5.h	2;"	d
+_ARM_H_	include/arm.h	2;"	d
+_Abort_Handler	testbench/asm_codes/ARM_codes/interrupt/src/interrupt.S	/^_Abort_Handler:$/;"	l
+_C	include/my_ctype.h	17;"	d
+_COMMON_H_	include/common.h	2;"	d
+_CPUState	include/arm.h	/^typedef struct _CPUState {$/;"	s
+_D	include/my_ctype.h	16;"	d
+_FIQ_Handler	testbench/asm_codes/ARM_codes/interrupt/src/interrupt.S	/^_FIQ_Handler:$/;"	l
+_HANDLER_H_	common/handler.h	2;"	d
+_IRQ_Handler	testbench/asm_codes/ARM_codes/interrupt/src/interrupt.S	/^_IRQ_Handler:$/;"	l
+_L	include/my_ctype.h	15;"	d
+_LARGE_ARITH_H	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	10;"	d	file:
+_LARGE_ARITH_H	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	10;"	d	file:
+_LIB_STRING_H	common/lib_string.h	2;"	d
+_MY_CTYPE_H_	include/my_ctype.h	7;"	d
+_P	include/my_ctype.h	18;"	d
+_Prefetch_Handler	testbench/asm_codes/ARM_codes/interrupt/src/interrupt.S	/^_Prefetch_Handler:$/;"	l
+_Reset_Handler	testbench/asm_codes/ARM_codes/interrupt/src/interrupt.S	/^_Reset_Handler:							@ The RESET entry point$/;"	l
+_S	include/my_ctype.h	19;"	d
+_SP	include/my_ctype.h	21;"	d
+_SWI_Handler	testbench/asm_codes/ARM_codes/interrupt/src/interrupt.S	/^_SWI_Handler:$/;"	l
+_THUMB1_H_	thumb/thumb1/thumb1.h	2;"	d
+_U	include/my_ctype.h	14;"	d
+_UNSIGNED_TYPE_	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	12;"	d	file:
+_UNSIGNED_TYPE_	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	12;"	d	file:
+_Undefined_Handler	testbench/asm_codes/ARM_codes/interrupt/src/interrupt.S	/^_Undefined_Handler:$/;"	l
+_X	include/my_ctype.h	20;"	d
+__ismask	include/my_ctype.h	49;"	d
+_ctype	include/my_ctype.h	/^unsigned char _ctype[] = {$/;"	v
+_handler_param	include/common.h	/^typedef struct _handler_param {$/;"	s
+_instruction	include/arm.h	/^typedef struct _instruction {$/;"	s
+_loop	testbench/asm_codes/ARM_codes/interrupt/src/interrupt.S	/^_loop:$/;"	l
+_main	testbench/asm_codes/ARM_codes/interrupt/src/interrupt.S	/^_main:$/;"	l
+_main_h_	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	2;"	d
+_main_h_	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	2;"	d
+_main_start	testbench/asm_codes/ARM_codes/data_proc/src/data_proc.S	/^_main_start:$/;"	l
+_main_start	testbench/asm_codes/ARM_codes/ld_str/src/ld_str.S	/^_main_start:$/;"	l
+_main_start	testbench/asm_codes/ARM_codes/ld_str/src/ldm_stm.S	/^_main_start:$/;"	l
+_main_start	testbench/asm_codes/THUMB_codes/data_proc/src/data_proc.S	/^_main_start:$/;"	l
+_main_start	testbench/asm_codes/THUMB_codes/ld_str/src/ld_str.S	/^_main_start:$/;"	l
+_main_start	testbench/asm_codes/THUMB_codes/ld_str/src/ldm_stm.S	/^_main_start:$/;"	l
+_reset	testbench/asm_codes/ARM_codes/data_proc/src/data_proc.S	/^_reset:								@reset$/;"	l
+_reset	testbench/asm_codes/ARM_codes/ld_str/src/ld_str.S	/^_reset:								@reset$/;"	l
+_reset	testbench/asm_codes/ARM_codes/ld_str/src/ldm_stm.S	/^_reset:								@reset$/;"	l
+_reset	testbench/asm_codes/THUMB_codes/data_proc/src/data_proc.S	/^_reset:								@reset$/;"	l
+_reset	testbench/asm_codes/THUMB_codes/ld_str/src/ld_str.S	/^_reset:								@reset$/;"	l
+_reset	testbench/asm_codes/THUMB_codes/ld_str/src/ldm_stm.S	/^_reset:							@reset$/;"	l
+_reset_cflag	testbench/asm_codes/THUMB_codes/data_proc/src/data_proc.S	/^_reset_cflag:						@ this is a ARM instruction$/;"	l
+_set_cflag	testbench/asm_codes/THUMB_codes/data_proc/src/data_proc.S	/^_set_cflag:							@ this is a ARM instruction$/;"	l
+_start	testbench/asm_codes/ARM_codes/interrupt/src/interrupt.S	/^_start:$/;"	l
+_start	testbench/c_codes/ARM_codes/Bubble_sort/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/ARM_codes/Dct/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/ARM_codes/Dhry/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/ARM_codes/Galoisfield/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/ARM_codes/Mfcc/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/ARM_codes/Mimo/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/ARM_codes/Modular_square/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/ARM_codes/Sorts/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/ARM_codes/Tree_traversal/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/ARM_codes/Turbo/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/ARM_codes/Whetstone/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/THUMB_codes/Dct/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/THUMB_codes/Dhry/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/THUMB_codes/Galoisfield/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/THUMB_codes/Mfcc/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/THUMB_codes/Mimo/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/THUMB_codes/Modular_square/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/THUMB_codes/Sorts/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/THUMB_codes/Tree_traversal/src/crti.S	/^_start:$/;"	l
+_start	testbench/c_codes/THUMB_codes/Whetstone/src/crti.S	/^_start:$/;"	l
+a	testbench/c_codes/ARM_codes/Turbo/src/header/turbo_decoder.h	/^int a[NumState][CodeLen+3] = {0};$/;"	v
+a_diff	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^int a_diff, b_diff;$/;"	v
+a_max	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^int a_max, b_max;$/;"	v
+a_min	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^int a_min, b_min;$/;"	v
+acc_coef	testbench/c_codes/ARM_codes/Mfcc/src/mfcc.c	/^MDATA acc_coef[13];$/;"	v
+acc_coef	testbench/c_codes/THUMB_codes/Mfcc/src/mfcc.c	/^MDATA acc_coef[13];$/;"	v
+accwindow	testbench/c_codes/ARM_codes/Mfcc/src/util.h	35;"	d
+accwindow	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	35;"	d
+adc	thumb/thumb1/thumb1.c	/^static void adc()$/;"	f	file:
+add1	thumb/thumb1/thumb1.c	/^static void add1()$/;"	f	file:
+add2	thumb/thumb1/thumb1.c	/^static void add2()$/;"	f	file:
+add3	thumb/thumb1/thumb1.c	/^static void add3()$/;"	f	file:
+add_node	testbench/c_codes/ARM_codes/Tree_traversal/src/tree_traversal.c	/^void add_node (t_node * parent, t_node * curr) {$/;"	f
+add_node	testbench/c_codes/THUMB_codes/Tree_traversal/src/tree_traversal.c	/^void add_node (t_node * parent, t_node * curr) {$/;"	f
+addrOut	testbench/c_codes/ARM_codes/Turbo/src/header/top.h	/^unsigned int addrOut[CodeLen];$/;"	v
+alpha	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	/^unsigned int *alpha;$/;"	v
+alpha	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	/^unsigned int *alpha;$/;"	v
+alpha_max	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	/^unsigned int alpha_max;$/;"	v
+alpha_max	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	/^unsigned int alpha_max;$/;"	v
+and	thumb/thumb1/thumb1.c	/^static void and()$/;"	f	file:
+array	testbench/c_codes/ARM_codes/Bubble_sort/src/bubble_sort.c	/^int array[10] = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };$/;"	v
+asr1	thumb/thumb1/thumb1.c	/^static void asr1()$/;"	f	file:
+asr2	thumb/thumb1/thumb1.c	/^static void asr2()$/;"	f	file:
+b	testbench/c_codes/ARM_codes/Turbo/src/header/turbo_decoder.h	/^int b[NumState][CodeLen+3] = {0};$/;"	v
+b_diff	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^int a_diff, b_diff;$/;"	v
+b_max	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^int a_max, b_max;$/;"	v
+b_min	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^int a_min, b_min;$/;"	v
+bic	thumb/thumb1/thumb1.c	/^static void bic()$/;"	f	file:
+breakp	include/common.h	/^	int32u_t breakp;$/;"	m	struct:_handler_param
+bubbleSort	testbench/c_codes/ARM_codes/Bubble_sort/src/bubble_sort.c	/^void bubbleSort(int *array, int length)$/;"	f
+buffer0	testbench/c_codes/ARM_codes/Mfcc/src/mfcc.c	/^MDATA buffer0[numfft];$/;"	v
+buffer0	testbench/c_codes/THUMB_codes/Mfcc/src/mfcc.c	/^MDATA buffer0[numfft];$/;"	v
+buffer1	testbench/c_codes/ARM_codes/Mfcc/src/mfcc.c	/^MDATA buffer1[numfft];$/;"	v
+buffer1	testbench/c_codes/THUMB_codes/Mfcc/src/mfcc.c	/^MDATA buffer1[numfft];$/;"	v
+carryfrom	thumb/thumb1/thumb1.c	/^int32s_t carryfrom(int32s_t a, int32s_t b, int32s_t c,  int32s_t add_sub)$/;"	f
+ceps_weight	testbench/c_codes/ARM_codes/Mfcc/src/util.h	36;"	d
+ceps_weight	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	36;"	d
+ceps_window	testbench/c_codes/ARM_codes/Mfcc/src/mfcc.c	/^MDATA ceps_window[5][13];$/;"	v
+ceps_window	testbench/c_codes/THUMB_codes/Mfcc/src/mfcc.c	/^MDATA ceps_window[5][13];$/;"	v
+cepstrum	testbench/c_codes/ARM_codes/Mfcc/src/main.c	/^int cepstrum[39];$/;"	v
+cepstrum	testbench/c_codes/THUMB_codes/Mfcc/src/main.c	/^int cepstrum[39];$/;"	v
+channel_end	testbench/c_codes/ARM_codes/Mfcc/src/mel.c	/^int channel_end[]= {8, 9, 11, 13, 15, 17, 19, 21, 24, 26, 29, 31, 34, 38, 41, 44, 48, 52, 56, 60, 65, 69, 74, 80, 85, 91, 98, 104, 111, 118, 126, 134, 143, 152, 162, 172, 182, 194, 206, 218};$/;"	v
+channel_end	testbench/c_codes/THUMB_codes/Mfcc/src/mel.c	/^int channel_end[]= {8, 9, 11, 13, 15, 17, 19, 21, 24, 26, 29, 31, 34, 38, 41, 44, 48, 52, 56, 60, 65, 69, 74, 80, 85, 91, 98, 104, 111, 118, 126, 134, 143, 152, 162, 172, 182, 194, 206, 218};$/;"	v
+channel_start	testbench/c_codes/ARM_codes/Mfcc/src/mel.c	/^int channel_start[]= {5, 6, 8, 9, 11, 13, 15, 17, 19, 21, 24, 26, 29, 31, 34, 38, 41, 44, 48, 52, 56, 60, 65, 69, 74, 80, 85, 91, 98, 104, 111, 118, 126, 134, 143, 152, 162, 172, 182, 194};$/;"	v
+channel_start	testbench/c_codes/THUMB_codes/Mfcc/src/mel.c	/^int channel_start[]= {5, 6, 8, 9, 11, 13, 15, 17, 19, 21, 24, 26, 29, 31, 34, 38, 41, 44, 48, 52, 56, 60, 65, 69, 74, 80, 85, 91, 98, 104, 111, 118, 126, 134, 143, 152, 162, 172, 182, 194};$/;"	v
+check_order	testbench/c_codes/ARM_codes/Sorts/src/sorts.c	/^static void check_order(char *sort_type, char *strings[], int n)$/;"	f	file:
+check_order	testbench/c_codes/THUMB_codes/Sorts/src/sorts.c	/^static void check_order(char *sort_type, char *strings[], int n)$/;"	f	file:
+cmn	thumb/thumb1/thumb1.c	/^static void cmn()$/;"	f	file:
+cmp1	thumb/thumb1/thumb1.c	/^static void cmp1()$/;"	f	file:
+cmp2	thumb/thumb1/thumb1.c	/^static void cmp2() \/\/ not borrow from$/;"	f	file:
+code_t	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	/^}code_t;$/;"	t	typeref:struct:__anon1
+code_t	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	/^}code_t;$/;"	t	typeref:struct:__anon7
+com_stack_pop	common/lib_string.c	/^void com_stack_pop(int8s_t* Dest, int8s_t KeyID)$/;"	f
+com_stack_push	common/lib_string.c	/^void com_stack_push(int8s_t* command)$/;"	f
+compare_string	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^int compare_string(char* a, char* b,int length)$/;"	f
+compare_string	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^int compare_string(char* a, char* b,int length)$/;"	f
+counter	testbench/c_codes/ARM_codes/Mfcc/src/mfcc.c	/^int counter;$/;"	v
+counter	testbench/c_codes/THUMB_codes/Mfcc/src/mfcc.c	/^int counter;$/;"	v
+cpsr	include/arm.h	/^	int32u_t cpsr;          \/\/ CPSR$/;"	m	struct:_CPUState
+data	testbench/c_codes/ARM_codes/Mfcc/src/main.c	/^short data[] = {14,-4,1,-10,-13,-8,-30,13,42,-19,13,-4,3,-13,28,-4,-1,11,-13,-20,-10,1,-19,6,-10,-6,8,-22,20,-20,25,-4,-15,8,-24,-12,3,-2,-13,-23,-16,-20,-5,9,-13,0,-11,24,-17,-3,14,-9,-14,-7,0,-3,-9,-9,21,21,23,13,-3,12,-5,-1,-2,14,26,39,2,23,18,40,17,16,26,15,14,19,45,-1,14,5,3,9,-3,19,-1,1,6,12,6,-5,-8,9,-7,-9,14,2,1,2,-5,0,13,13,25,5,3,25,8,26,3,-8,21,14,29,-14,26,16,24,21,10,21,9,11,21,18,10,27,-14,16,5,27,4,14,11,7,1,-1,6,27,37,23,12,4,12,17,9,34,17,-7,-4,6,6,22,-1,8,8,-9,-9,-21,-18,17,-25,-13,0,11,2,3,11,-10,-4,-9,-18,-3,-17,3,8,-32,-19,-11,-16,5,-2,-12,16,-2,-6,19,15,4,-4,-5,18,-4,-6,7,-2,21,13,-8,26,13,5,20,18,5,13,1,13,-1,18,14,26,12,23,38,32,31,28,20,48,8,55,6,25,30,14,19,46,7,41,29,18,31,19,34,23,36,45,18,8,40,14,20,13,6,-6,-3,17,14,34,3,31,13,4,-5,-6,17,31,21,19,25,-1,3,12,29,-11,1,0,7,12,19,-25,40,-74,34,-7,-80,74,-75,30,-12,-26,-43,19,-50,-13,45,-42,46,-57,16,-14,16,28,13,31,-3,39,-50,30,-11,-3,11,1,4,36,12,10,35,6,19,13,-17,17,1,28,-11,29,-21,23,-7,-3,28,-12,-21,4,-28,-19,15,-32,-2,-4,-3,15,-26,-15,11,-16,-7,-24,-3,-8,-10,12,-2,-7,1,21,-5,3,-6,-14,6,-18,-3,-7,7,-9,-15,-15,6,-4,-9,-6,-7,-15,-6,-12,-5,21,18,-26,9,1,23,12,2,4,30,-15,0,33,-14,29,-9,13,34,2,-3,10,5,25,51,-6,44,-1,13,1,-6,6,-14,27,13,14,-4,-4,20,-13,18,-10,11,-28,10,-29,1,-5,-15,-20,-31,-24,-15,-8,-2,-1,-11,-16,-39,-9,-2,-1,9,-34,19,-11,-22,12,-8,-9,-15,-10,28,-5,-3,4,-7,-16,-14,-8,-31,2,6,20,-19,2,-14,-9,-9,3,21,-9,16,1,-16,32,-17,0,19,21,7,18,-8,48,14,-2,49,-14,26,33,2,16,3,27,-1,20,14,5,-9,-18,22,-14,20,-2,-17,8,11,0,12,-1,-3,9,13,4,13,35,6,16,36,11,33,1,25,17,-14,17,-14,5,24,2,-22,17,-21,25,-8,5,7,-18,-4,-7,-7,18,2,21,14,44,12,12,11,-11,11,-20,-8,37,-22,15,7,9,-3,19,26,13,16,18,-7,1,0,-6,9,-15,7,21,19,0,-14,-1,-12,-5,-10,0,5,5,-21,12,-14,3,-11,-17,3,36,12,14,16,9,20,-6,17,13,2,-6,-22,-5,11,3,-7,-3,-6,34,-12,-23,-14,-19,5,0,-4,0,11,2,-17,-9,-4,1,43,-6,5,16,10,10,13,3,12,11,-11,12,-10,4,6,-29,-6,16,-10,-4,-3,-35,2,4,-6,10,-46,-25,1,-13,-2,-18,-13,1,19,14,29,0,3,-1,20,-3,16,0,-9,9,2,17,-13,21,-7,10,2,-1,13,1,8,-14,22,17,17,5,16,17,17,12,-9,10,24,28,26,19,9,16,-8,10,29,33,1,-5,-1,-3,0,-14,-6,-18,-10,-5,1,-14,-12,-42,-3,-3,9,2,-17,-2,0,10,0,13,-13,-6,-8,14,-9,7,-1,9,-13,3,5,-17,20,-4,5,9,23,11,0,37,2,12,-8,12,44,39,15,38,12,-8,10,24,7,32,42,21,14,47,29,60,21,47,35,33,43,33,38,26,4,22,16,-3,17,10,2,28,-4,21,2,22,33,19,28,26,13,22,20,22,39,17,31,11,13,24,10,11,30,38,26,0,6,34,12,21,9,39,10,-1,6,40,18,25,17,16,15,21,27,9,21,16,37,16,44,10,11,27,34,16,9,-11,21,5,8,4,4,13,8,23,14,7,1,20,1,47,18,16,43,24,21,23,3,33,43,18,20,19,18,40,25,4,24,24,9,12,38,7,41,15,26,14,-25,39,15,5,13,1,18,7,9,20,19,-5,6,13,-11,17,15,-16,28,-5,16,6,24,8,10,19,8,15,16,-8,5,5,16,-5,8,21,12,21,26,22,26,15,16,16,-3,23,25,15,12,30,24,26,13,9,20,10,35,25,0,27,39,21,21,10,46,6,32,20,27,26,13,12,34,22,27,12,6,13,-20,14,22,-2,6,3,8,17,-9,7,2,-9,4,18,-15,-7,-2,-28,5,-4,-3,17,22,-25,21,-5,-4,-14,-4,5,-13,-23,-10,-6,12,-16,0,-1,21,-16,16,8,-18,-2,-8,16,11,-9,29,6,-11,2,11,-9,-2,33,9,-5,25,5,11,17,19,13,25,23,10,10,16,23,12,7,22,5,14,0,19,14,36,26,18,14,12,15,0,31,38,21,17,17,14,16,12,-6,11,12,-2,37,15,14,33,19,29,18,-10,34,18,16,3,9,17,21,-13,19,-6,10,14,-5,-1,-12,-1,5,7,-3,-3,1,23,5,-2,-11,-6,-5,-11,-32,-19,5,3,6,-25,-20,-17,-1,-11,-8,17,-6,-8,-10,21,-6,-2,-14,-12,2,12,-1,-4,-19,-5,-5,7,29,14,-5,16,4,-1,-15,13,8,6,-3,9,-10,10,-27,-22,5,-7,-2,-5,-20,-6,-24,-14,-38,-30,-14,-25,-14,-38,-11,-29,-45,-29,-18,-27,-21,-12,-28,-27,-21,-3,-16,-9,-23,-24,3,-14,17,-18,-3,4,3,4,4,5,13,-6,5,5,1,13,-20,-10,-12,-8,-4,-8,6,1,-20,-18,-16,-19,-14,-6,-13,-16,-43,-8,-14,0,-22,-18,-8,-22,-31,-20,1,-27,-33,-6,-34,-18,-16,-27,-25,-17,-19,-1,-17,-19,-16,-25,-16,-5,-9,-12,-16,-14,-19,-17,-33,-10,-7,4,-13,-34,-25,-12,-17,-20,-28,-26,-27,19,-15,-27,-49,-15,5,-12,-21,-65,-8,-27,-6,-36,-9,-33,-27,-36,-21,-29,-38,-14,-35,-20,0,-16,-39,5,-18,-19,-15,-15,-1,-8,-23,-19,-24,9,-10,-14,7,0,-10,4,-27,3,-23,-7,-4,8,-10,10,0,-18,16,13,-5,15,11,-9,-22,28,24,-10,6,18,1,25,17,0,9,10,-3,24,23,5,-22,3,-7,12,0,-16,2,2,18,-6,-10,-13,-17,-4,0,14,-5,-22,-31,-15,-29,-22,-7,-22,-36,-15,-1,-13,-33,-13,-22,-28,-15,-18,-18,-1,-27,-17,-1,-35,-15,-12,-27,2,-14,5,-17,-14,3,-18,5,-6,2,-1,-28,16,-1,2,-10,-23,-12,-8,-10,2,-28,-16,4,2,-24,-29,-4,-7,4,25,-7,4,0,10,-16,8,-15,2,-10,26,-16,-4,-3,-13,15,-19,14,9,4,6,0,0,14,9,16,-6,-2,6,-6,8,17,14,-13,11,-4,-34,1,-3,-13,-16,3,-10,-8,-25,27,-20,-17,-7,2,26,-7,-8,7,-15,7,-19,-5,4,-12,-2,5,-8,-1,12,-12,5,5,10,22,12,4,-18,8,25,26,17,4,7,32,-5,6,-2,38,6,18,8,4,18,-12,12,3,4,0,28,13,20,4,-3,9,19,-6,5,13,-9,-18,-9,3,3,-9,5,21,14,3,13,16,-8,25,-6,32,-6,16,4,-13,-3,7,-27,2,-16,-1,-21,0,-3,-30,5,-16,-7,-17,-16,-18,2,1,22,-9,-20,5,1,1,7,0,12,-4,17,30,4,5,25,6,23,26,6,28,30,29,-9,42,34,32,10,32,57,42,39,34,24,51,25,33,26,23,18,20,25,32,25,30,25,30,1,31,13,15,16,20,14,23,19,7,38,15,35,18,8,7,17,2,13,9,12,-4,1,16,4,17,7,32,15,17,23,19,37,-3,52,18,40,4,1,11,33,16,33,-11,4,39,15,23,12,-5,14,21,3,14,-2,12,3,6,-29,11,10,7,-6,-12,35,9,5,-31,15,-21,3,14,30,7,25,37,19,30,-6,8,9,21,38,26,-4,10,30,9,0,4,22,24,21,8,8,23,19,18,12,24,22,23,35,20,39,6,21,22,-7,16,17,23,-1,28,8,21,11,12,-33,-26,29,3,-1,-15,-7,10,4,22,24,0,13,17,-2,6,-6,3,-1,-8,14,22,9,-11,0,6,-9,2,10,20,-13,1,-1,-4,-8,0,4,-24,-7,-9,6,-9,-8,13,-10,-14,-13,-7,-11,11,-2,-6,-8,-33,12,5,-7,13,5,6,-6,-4,-9,-12,-7,18,1,19,-3,-10,-11,7,-3,3,-4,-1,14,8,3,-4,-17,-13,-6,-14,-6,5,-15,-1,0,-12,1,-22,-21,13,-8,-3,-3,-5,-15,-9,7,12,15,0,-16,7,11,7,8,3,32,25,6,15,18,26,7,16,-1,16,9,21,24,26,11,20,5,27,1,16,37,21,-12,17,6,5,-2,21,27,39,24,31,20,33,25,52,27,35,47,5,31,16,19,21,18,14,30,20,0,7,10,9,-6,1,1,6,1,15,2,-4,19,-15,-4,6,-3,26,9,-12,36,-1,-3,25,11,8,6,-2,-28,5,22,-8,4,-20,-10,-11,27,-1,15,3,21,4,30,-11,-12,15,0,-13,-9,5,-4,-10,-10,10,8,20,6,26,17,-16,9,15,6,18,18,15,0,7,5,25,12,2,16,30,7,7,14,16,37,-4,9,-6,6,-4,-12,6,13,-16,-7,-5,-18,2,-12,5,0,2,1,-8,-7,8,-8,-1,9,-6,28,11,-34,-15,16,-27,-3,1,-5,-17,8,5,-13,-22,11,13,4,6,16,-15,-10,-10,2,12,-9,-2,18,42,29,35,26,20,5,-6,31,26,15,10,17,30,8,10,13,21,-7,17,4,4,-4,14,22,19,3,-1,10,20,-22,0,10,15,15,1,4,20,1,7,2,5,2,9,17,33,37,17,27,21,39,10,15,3,13,14,22,8,32,14,22,-10,0,11,42,4,-1,-8,-20,9,29,12,-32,-3,-1,-8,14,3,2,-19,3,-19,-4,-15,-8,-21,-2,-11,-6,11,17,17,3,20,27,9,8,25,15,44,40,31,26,11,28,39,41,61,50,49,70,57,35,29,32,48,7,35,49,26,18,31,30,16,56,25,48,34,19,15,53,51,39,28,38,51,56,37,25,25,59,42,47,40,26,30,45,18,51,27,11,4,19,39,37,59,38,-3,7,-12,-4,11,-27,-17,-25,28,6,-6,6,-6,-23,-23,3,2,19,36,33,38,18,52,105,229,297,352,440,481,486,537,595,545,533,484,411,355,293,183,89,-92,-269,-450,-604,-820,-1009,-1224,-1442,-1616,-1829,-2038,-2158,-2243,-2257,-2160,-2002,-1788,-1559,-1306,-987,-629,-240,168,539,940,1329,1715,2065,2332,2589,2711,2881,2965,3011,3025,2944,2827,2619,2439,2213,1955,1633,1275,933,596,281,-9,-322,-618,-893,-1090,-1260,-1414,-1510,-1555,-1545,-1570,-1505,-1445,-1417,-1389,-1336,-1331,-1274,-1283,-1346,-1448,-1600,-1772,-1922,-2151,-2484,-2812,-3040,-2901,-2403,-1770,-1385,-1045,-631,-373,-100,412,931,1199,1405,1813,2272,2700,3049,3159,3250,3136,3084,3146,3211,3074,2811,2516,2294,2049,1797,1445,990,417,-48,-359,-709,-1042,-1414,-1663,-1773,-1832,-1767,-1696,-1671,-1671,-1575,-1336,-1129,-962,-864,-761,-626,-446,-266,-146,-85,-48,50,194,312,366,411,437,412,466,470,585,597,535,520,530,533,537,606,598,607,628,654,652,686,635,636,611,529,468,429,349,227,138,27,-74,-172,-241,-321,-365,-463,-572,-606,-700,-808,-883,-923,-964,-1002,-1022,-1049,-1059,-1051,-1013,-1009,-992,-980,-926,-865,-843,-831,-737,-703,-674,-656,-621,-596,-624,-570,-525,-477,-455,-339,-244,-113,7,98,264,423,573,718,900,1084,1210,1353,1506,1613,1706,1733,1787,1837,1812,1803,1751,1677,1542,1434,1288,1096,898,703,471,268,33,-186,-349,-572,-741,-903,-1042,-1185,-1333,-1445,-1550,-1604,-1629,-1668,-1693,-1775,-1851,-1937,-2003,-2142,-2305,-2482,-2652,-2919,-3162,-3230,-2989,-2421,-2023,-1573,-1083,-614,-361,75,663,1151,1602,2031,2599,3182,3610,3935,4098,4120,4034,3960,4021,3992,3839,3598,3347,3028,2681,2279,1779,1148,584,71,-322,-678,-1025,-1364,-1629,-1857,-1970,-1946,-1887,-1764,-1624,-1393,-1166,-912,-690,-565,-339,-207,-36,83,132,171,247,267,324,492,714,632,527,425,321,101,-93,-229,-500,-875,-1232,-1539,-1818,-2189,-2628,-2951,-3279,-3665,-3760,-3470,-2970,-2711,-2393,-1912,-1443,-1184,-792,-232,182,463,968,1611,2215,2633,2915,3248,3393,3421,3518,3697,3720,3510,3410,3322,3002,2676,2274,1781,1232,723,326,8,-379,-711,-891,-959,-1037,-1113,-1153,-1195,-1230,-1172,-1042,-846,-746,-645,-514,-371,-242,-163,-68,-36,10,171,421,451,415,387,336,171,66,-103,-445,-776,-1099,-1374,-1636,-2056,-2537,-3002,-3365,-3732,-4024,-4177,-3829,-3413,-3117,-2744,-2129,-1837,-1690,-1143,-513,-27,542,1152,1829,2449,2929,3355,3662,3791,3795,3981,4251,4258,4222,4125,3864,3525,3109,2728,2157,1529,912,452,131,-293,-703,-969,-1163,-1398,-1505,-1497,-1473,-1579,-1468,-1230,-1017,-889,-745,-591,-450,-373,-246,-122,-51,-81,52,189,250,323,411,394,326,185,139,51,-162,-318,-511,-762,-1110,-1406,-1693,-2067,-2445,-2809,-3129,-3353,-3597,-3846,-3784,-3283,-2874,-2677,-2356,-1872,-1588,-1246,-657,-61,407,960,1475,2056,2582,2886,3155,3460,3582,3716,3974,4172,4048,3908,3742,3470,3117,2700,2273,1829,1352,881,579,262,-192,-527,-681,-911,-1096,-1162,-1171,-1185,-1177,-1051,-858,-800,-800,-716,-578,-411,-258,-84,175,265,341,443,524,461,356,266,165,-81,-358,-716,-1091,-1535,-1976,-2384,-2826,-3270,-3570,-3990,-4286,-4681,-4643,-4017,-3539,-3358,-3045,-2441,-2297,-1994,-1109,-317,151,878,1568,2312,2850,3255,3556,3970,4140,4378,4764,5149,4919,4745,4566,4180,3648,3212,2762,2234,1676,1253,804,397,-249,-756,-961,-1232,-1408,-1366,-1315,-1421,-1434,-1300,-1180,-1151,-981,-846,-698,-476,-282,-76,15,16,171,449,656,562,599,553,417,300,294,161,-203,-623,-860,-1103,-1557,-2044,-2361,-2695,-3244,-3420,-3367,-3742,-4204,-4322,-3502,-1736,-1340,-2112,-2547,-2048,-1912,-1275,216,996,770,1104,1584,2241,2447,2120,2180,2772,3155,3656,4349,4349,3207,2728,2753,2590,2405,2198,1909,1607,1156,741,405,-132,-697,-692,-131,11,-230,-364,-545,-735,-714,-432,-257,-384,-379,-103,163,144,-53,-105,8,103,451,649,540,176,34,66,37,-201,-437,-652,-938,-1309,-1521,-1735,-2279,-2688,-2880,-3024,-3106,-3331,-3705,-4170,-4428,-4393,-3496,-2743,-2826,-2895,-2351,-2109,-1730,-785,128,459,989,1707,2391,2783,2895,3087,3599,4021,4250,4651,4794,4271,3847,3939,3876,3586,3232,3038,2584,2031,1498,1135,713,174,-163,-63,-244,-743,-932,-993,-1160,-1100,-759,-588,-606,-644,-477,-242,-155,-148,163,415,446,494,661,492,288,218,237,175,-59,-401,-696,-1056,-1603,-2059,-2294,-2563,-3063,-3354,-3529,-3897,-4496,-4830,-4995,-4950,-3891,-2953,-3147,-3656,-3369,-2908,-2103,-671,373,584,824,1183,1811,2690,3300,3667,4177,4537,4628,4654,4740,4456,4284,4533,4575,4161,3500,2845,2346,2075,1858,1494,985,327,-135,-255,-385,-713,-913,-1079,-1105,-1017,-941,-862,-991,-924,-631,-282,-132,-134,-111,76,266,524,626,575,389,327,409,425,177,-117,-420,-801,-1186,-1614,-2051,-2456,-2764,-2935,-3312,-3708,-4261,-4743,-5042,-4893,-4786,-3623,-3236,-4002,-4433,-3408,-2542,-1658,-564,74,-271,173,1096,2238,3168,3439,3597,3991,4181,4406,4917,5203,4901,4622,4709,4389,3876,3545,3335,3079,2592,1980,1500,907,306,9,208,-83,-779,-1282,-1216,-1296,-1112,-810,-786,-1123,-1124,-757,-251,-74,-61,67,214,356,546,719,626,436,518,720,479,66,-260,-382,-628,-983,-1580,-2246,-2522,-2490,-2757,-3248,-4083,-4546,-4704,-4762,-4595,-4571,-4658,-3950,-3848,-3973,-3749,-2790,-2063,-1344,-599,-155,-23,674,1553,2841,3462,3169,3370,4004,4359,4819,5314,5179,4553,4212,4521,4502,4291,3689,3189,2762,2146,1794,1712,1106,424,185,121,-425,-868,-918,-959,-1094,-1015,-1045,-1009,-1169,-958,-363,-34,-334,-457,-10,385,526,765,650,239,280,710,939,631,-56,-485,-554,-717,-1106,-1422,-1962,-2665,-2948,-2843,-3255,-3955,-4514,-4501,-4719,-5088,-5310,-3761,-3064,-4382,-5125,-3457,-2436,-1851,-734,-109,-1122,-754,1396,3093,3383,2861,2581,3428,4437,5062,5680,5382,4078,3699,5145,5740,4562,3675,3321,2830,2615,2726,2330,1070,395,387,385,131,-639,-1219,-979,-908,-1214,-1136,-1156,-1408,-1213,-360,-415,-762,-599,-158,618,1087,306,-155,340,1186,1484,1353,397,-426,-118,827,654,-536,-2162,-2509,-1626,-886,-2010,-3644,-4595,-4429,-3788,-3238,-4079,-5821,-6732,-4421,-2063,-3187,-5566,-5099,-3003,-1660,-359,-218,-1554,-2025,831,3604,4239,2177,1307,2750,5299,6002,5652,4572,3419,3901,6140,6666,4565,2760,2530,3615,4114,3397,1864,730,462,894,1611,898,-1033,-1868,-924,-225,-613,-1149,-1423,-1473,-1203,-199,-44,-528,-959,-136,738,786,270,284,513,829,1088,951,411,-163,128,564,89,-1170,-1798,-1649,-1534,-1749,-2229,-3487,-4690,-4352,-3218,-3182,-4811,-6551,-6603,-4068,-1566,-3391,-6135,-5564,-2874,-1195,203,-700,-2414,-2095,1624,3742,3490,1777,1325,2909,5453,5812,5257,4256,3746,4602,6313,5862,3967,3261,3583,3751,3672,2929,1687,1330,949,922,788,86,-886,-209,-350,-1531,-1755,-476,-635,-1108,-1081,-1133,-1183,-196,288,44,-621,-323,670,1106,605,394,728,858,642,813,629,-44,-135,-195,-659,-1812,-1942,-1168,-1423,-3245,-4294,-3749,-3014,-3828,-4668,-5258,-5779,-5599,-2743,-2621,-5704,-6862,-2970,-963,-1669,-2398,-2039,-1569,404,2566,2416,1316,950,3174,5242,5405,3609,3831,5193,5426,5036,5285,4840,3796,3941,4493,3800,2755,2455,2647,1720,876,531,947,221,-467,-933,-959,-1194,-1061,-500,-1128,-1873,-1468,-324,-398,-506,-580,-396,-198,464,1124,474,-162,204,1341,1354,651,238,444,413,47,-302,-811,-1496,-1644,-1315,-1773,-3444,-4208,-3546,-2929,-4180,-5465,-5713,-5386,-4988,-2618,-3702,-6771,-6245,-1700,-831,-2583,-2850,-1744,-927,1200,2204,1477,1244,2069,3937,4856,4273,3664,5073,5743,4661,4354,5613,5173,4291,4045,3803,3202,3316,3172,2306,919,690,1294,1481,-49,-1334,-949,-490,-878,-976,-1068,-1801,-1751,-766,-424,-1110,-1035,-544,-295,-261,355,512,210,-52,540,1116,1059,482,362,368,242,108,-161,-940,-1818,-1471,-1153,-2203,-3417,-3523,-3548,-3748,-4171,-4934,-5518,-5362,-4427,-2899,-4833,-6516,-4330,-1148,-2868,-3344,-1786,-837,-1275,923,1735,1121,1753,2939};$/;"	v
+data	testbench/c_codes/THUMB_codes/Mfcc/src/main.c	/^short data[] = {14,-4,1,-10,-13,-8,-30,13,42,-19,13,-4,3,-13,28,-4,-1,11,-13,-20,-10,1,-19,6,-10,-6,8,-22,20,-20,25,-4,-15,8,-24,-12,3,-2,-13,-23,-16,-20,-5,9,-13,0,-11,24,-17,-3,14,-9,-14,-7,0,-3,-9,-9,21,21,23,13,-3,12,-5,-1,-2,14,26,39,2,23,18,40,17,16,26,15,14,19,45,-1,14,5,3,9,-3,19,-1,1,6,12,6,-5,-8,9,-7,-9,14,2,1,2,-5,0,13,13,25,5,3,25,8,26,3,-8,21,14,29,-14,26,16,24,21,10,21,9,11,21,18,10,27,-14,16,5,27,4,14,11,7,1,-1,6,27,37,23,12,4,12,17,9,34,17,-7,-4,6,6,22,-1,8,8,-9,-9,-21,-18,17,-25,-13,0,11,2,3,11,-10,-4,-9,-18,-3,-17,3,8,-32,-19,-11,-16,5,-2,-12,16,-2,-6,19,15,4,-4,-5,18,-4,-6,7,-2,21,13,-8,26,13,5,20,18,5,13,1,13,-1,18,14,26,12,23,38,32,31,28,20,48,8,55,6,25,30,14,19,46,7,41,29,18,31,19,34,23,36,45,18,8,40,14,20,13,6,-6,-3,17,14,34,3,31,13,4,-5,-6,17,31,21,19,25,-1,3,12,29,-11,1,0,7,12,19,-25,40,-74,34,-7,-80,74,-75,30,-12,-26,-43,19,-50,-13,45,-42,46,-57,16,-14,16,28,13,31,-3,39,-50,30,-11,-3,11,1,4,36,12,10,35,6,19,13,-17,17,1,28,-11,29,-21,23,-7,-3,28,-12,-21,4,-28,-19,15,-32,-2,-4,-3,15,-26,-15,11,-16,-7,-24,-3,-8,-10,12,-2,-7,1,21,-5,3,-6,-14,6,-18,-3,-7,7,-9,-15,-15,6,-4,-9,-6,-7,-15,-6,-12,-5,21,18,-26,9,1,23,12,2,4,30,-15,0,33,-14,29,-9,13,34,2,-3,10,5,25,51,-6,44,-1,13,1,-6,6,-14,27,13,14,-4,-4,20,-13,18,-10,11,-28,10,-29,1,-5,-15,-20,-31,-24,-15,-8,-2,-1,-11,-16,-39,-9,-2,-1,9,-34,19,-11,-22,12,-8,-9,-15,-10,28,-5,-3,4,-7,-16,-14,-8,-31,2,6,20,-19,2,-14,-9,-9,3,21,-9,16,1,-16,32,-17,0,19,21,7,18,-8,48,14,-2,49,-14,26,33,2,16,3,27,-1,20,14,5,-9,-18,22,-14,20,-2,-17,8,11,0,12,-1,-3,9,13,4,13,35,6,16,36,11,33,1,25,17,-14,17,-14,5,24,2,-22,17,-21,25,-8,5,7,-18,-4,-7,-7,18,2,21,14,44,12,12,11,-11,11,-20,-8,37,-22,15,7,9,-3,19,26,13,16,18,-7,1,0,-6,9,-15,7,21,19,0,-14,-1,-12,-5,-10,0,5,5,-21,12,-14,3,-11,-17,3,36,12,14,16,9,20,-6,17,13,2,-6,-22,-5,11,3,-7,-3,-6,34,-12,-23,-14,-19,5,0,-4,0,11,2,-17,-9,-4,1,43,-6,5,16,10,10,13,3,12,11,-11,12,-10,4,6,-29,-6,16,-10,-4,-3,-35,2,4,-6,10,-46,-25,1,-13,-2,-18,-13,1,19,14,29,0,3,-1,20,-3,16,0,-9,9,2,17,-13,21,-7,10,2,-1,13,1,8,-14,22,17,17,5,16,17,17,12,-9,10,24,28,26,19,9,16,-8,10,29,33,1,-5,-1,-3,0,-14,-6,-18,-10,-5,1,-14,-12,-42,-3,-3,9,2,-17,-2,0,10,0,13,-13,-6,-8,14,-9,7,-1,9,-13,3,5,-17,20,-4,5,9,23,11,0,37,2,12,-8,12,44,39,15,38,12,-8,10,24,7,32,42,21,14,47,29,60,21,47,35,33,43,33,38,26,4,22,16,-3,17,10,2,28,-4,21,2,22,33,19,28,26,13,22,20,22,39,17,31,11,13,24,10,11,30,38,26,0,6,34,12,21,9,39,10,-1,6,40,18,25,17,16,15,21,27,9,21,16,37,16,44,10,11,27,34,16,9,-11,21,5,8,4,4,13,8,23,14,7,1,20,1,47,18,16,43,24,21,23,3,33,43,18,20,19,18,40,25,4,24,24,9,12,38,7,41,15,26,14,-25,39,15,5,13,1,18,7,9,20,19,-5,6,13,-11,17,15,-16,28,-5,16,6,24,8,10,19,8,15,16,-8,5,5,16,-5,8,21,12,21,26,22,26,15,16,16,-3,23,25,15,12,30,24,26,13,9,20,10,35,25,0,27,39,21,21,10,46,6,32,20,27,26,13,12,34,22,27,12,6,13,-20,14,22,-2,6,3,8,17,-9,7,2,-9,4,18,-15,-7,-2,-28,5,-4,-3,17,22,-25,21,-5,-4,-14,-4,5,-13,-23,-10,-6,12,-16,0,-1,21,-16,16,8,-18,-2,-8,16,11,-9,29,6,-11,2,11,-9,-2,33,9,-5,25,5,11,17,19,13,25,23,10,10,16,23,12,7,22,5,14,0,19,14,36,26,18,14,12,15,0,31,38,21,17,17,14,16,12,-6,11,12,-2,37,15,14,33,19,29,18,-10,34,18,16,3,9,17,21,-13,19,-6,10,14,-5,-1,-12,-1,5,7,-3,-3,1,23,5,-2,-11,-6,-5,-11,-32,-19,5,3,6,-25,-20,-17,-1,-11,-8,17,-6,-8,-10,21,-6,-2,-14,-12,2,12,-1,-4,-19,-5,-5,7,29,14,-5,16,4,-1,-15,13,8,6,-3,9,-10,10,-27,-22,5,-7,-2,-5,-20,-6,-24,-14,-38,-30,-14,-25,-14,-38,-11,-29,-45,-29,-18,-27,-21,-12,-28,-27,-21,-3,-16,-9,-23,-24,3,-14,17,-18,-3,4,3,4,4,5,13,-6,5,5,1,13,-20,-10,-12,-8,-4,-8,6,1,-20,-18,-16,-19,-14,-6,-13,-16,-43,-8,-14,0,-22,-18,-8,-22,-31,-20,1,-27,-33,-6,-34,-18,-16,-27,-25,-17,-19,-1,-17,-19,-16,-25,-16,-5,-9,-12,-16,-14,-19,-17,-33,-10,-7,4,-13,-34,-25,-12,-17,-20,-28,-26,-27,19,-15,-27,-49,-15,5,-12,-21,-65,-8,-27,-6,-36,-9,-33,-27,-36,-21,-29,-38,-14,-35,-20,0,-16,-39,5,-18,-19,-15,-15,-1,-8,-23,-19,-24,9,-10,-14,7,0,-10,4,-27,3,-23,-7,-4,8,-10,10,0,-18,16,13,-5,15,11,-9,-22,28,24,-10,6,18,1,25,17,0,9,10,-3,24,23,5,-22,3,-7,12,0,-16,2,2,18,-6,-10,-13,-17,-4,0,14,-5,-22,-31,-15,-29,-22,-7,-22,-36,-15,-1,-13,-33,-13,-22,-28,-15,-18,-18,-1,-27,-17,-1,-35,-15,-12,-27,2,-14,5,-17,-14,3,-18,5,-6,2,-1,-28,16,-1,2,-10,-23,-12,-8,-10,2,-28,-16,4,2,-24,-29,-4,-7,4,25,-7,4,0,10,-16,8,-15,2,-10,26,-16,-4,-3,-13,15,-19,14,9,4,6,0,0,14,9,16,-6,-2,6,-6,8,17,14,-13,11,-4,-34,1,-3,-13,-16,3,-10,-8,-25,27,-20,-17,-7,2,26,-7,-8,7,-15,7,-19,-5,4,-12,-2,5,-8,-1,12,-12,5,5,10,22,12,4,-18,8,25,26,17,4,7,32,-5,6,-2,38,6,18,8,4,18,-12,12,3,4,0,28,13,20,4,-3,9,19,-6,5,13,-9,-18,-9,3,3,-9,5,21,14,3,13,16,-8,25,-6,32,-6,16,4,-13,-3,7,-27,2,-16,-1,-21,0,-3,-30,5,-16,-7,-17,-16,-18,2,1,22,-9,-20,5,1,1,7,0,12,-4,17,30,4,5,25,6,23,26,6,28,30,29,-9,42,34,32,10,32,57,42,39,34,24,51,25,33,26,23,18,20,25,32,25,30,25,30,1,31,13,15,16,20,14,23,19,7,38,15,35,18,8,7,17,2,13,9,12,-4,1,16,4,17,7,32,15,17,23,19,37,-3,52,18,40,4,1,11,33,16,33,-11,4,39,15,23,12,-5,14,21,3,14,-2,12,3,6,-29,11,10,7,-6,-12,35,9,5,-31,15,-21,3,14,30,7,25,37,19,30,-6,8,9,21,38,26,-4,10,30,9,0,4,22,24,21,8,8,23,19,18,12,24,22,23,35,20,39,6,21,22,-7,16,17,23,-1,28,8,21,11,12,-33,-26,29,3,-1,-15,-7,10,4,22,24,0,13,17,-2,6,-6,3,-1,-8,14,22,9,-11,0,6,-9,2,10,20,-13,1,-1,-4,-8,0,4,-24,-7,-9,6,-9,-8,13,-10,-14,-13,-7,-11,11,-2,-6,-8,-33,12,5,-7,13,5,6,-6,-4,-9,-12,-7,18,1,19,-3,-10,-11,7,-3,3,-4,-1,14,8,3,-4,-17,-13,-6,-14,-6,5,-15,-1,0,-12,1,-22,-21,13,-8,-3,-3,-5,-15,-9,7,12,15,0,-16,7,11,7,8,3,32,25,6,15,18,26,7,16,-1,16,9,21,24,26,11,20,5,27,1,16,37,21,-12,17,6,5,-2,21,27,39,24,31,20,33,25,52,27,35,47,5,31,16,19,21,18,14,30,20,0,7,10,9,-6,1,1,6,1,15,2,-4,19,-15,-4,6,-3,26,9,-12,36,-1,-3,25,11,8,6,-2,-28,5,22,-8,4,-20,-10,-11,27,-1,15,3,21,4,30,-11,-12,15,0,-13,-9,5,-4,-10,-10,10,8,20,6,26,17,-16,9,15,6,18,18,15,0,7,5,25,12,2,16,30,7,7,14,16,37,-4,9,-6,6,-4,-12,6,13,-16,-7,-5,-18,2,-12,5,0,2,1,-8,-7,8,-8,-1,9,-6,28,11,-34,-15,16,-27,-3,1,-5,-17,8,5,-13,-22,11,13,4,6,16,-15,-10,-10,2,12,-9,-2,18,42,29,35,26,20,5,-6,31,26,15,10,17,30,8,10,13,21,-7,17,4,4,-4,14,22,19,3,-1,10,20,-22,0,10,15,15,1,4,20,1,7,2,5,2,9,17,33,37,17,27,21,39,10,15,3,13,14,22,8,32,14,22,-10,0,11,42,4,-1,-8,-20,9,29,12,-32,-3,-1,-8,14,3,2,-19,3,-19,-4,-15,-8,-21,-2,-11,-6,11,17,17,3,20,27,9,8,25,15,44,40,31,26,11,28,39,41,61,50,49,70,57,35,29,32,48,7,35,49,26,18,31,30,16,56,25,48,34,19,15,53,51,39,28,38,51,56,37,25,25,59,42,47,40,26,30,45,18,51,27,11,4,19,39,37,59,38,-3,7,-12,-4,11,-27,-17,-25,28,6,-6,6,-6,-23,-23,3,2,19,36,33,38,18,52,105,229,297,352,440,481,486,537,595,545,533,484,411,355,293,183,89,-92,-269,-450,-604,-820,-1009,-1224,-1442,-1616,-1829,-2038,-2158,-2243,-2257,-2160,-2002,-1788,-1559,-1306,-987,-629,-240,168,539,940,1329,1715,2065,2332,2589,2711,2881,2965,3011,3025,2944,2827,2619,2439,2213,1955,1633,1275,933,596,281,-9,-322,-618,-893,-1090,-1260,-1414,-1510,-1555,-1545,-1570,-1505,-1445,-1417,-1389,-1336,-1331,-1274,-1283,-1346,-1448,-1600,-1772,-1922,-2151,-2484,-2812,-3040,-2901,-2403,-1770,-1385,-1045,-631,-373,-100,412,931,1199,1405,1813,2272,2700,3049,3159,3250,3136,3084,3146,3211,3074,2811,2516,2294,2049,1797,1445,990,417,-48,-359,-709,-1042,-1414,-1663,-1773,-1832,-1767,-1696,-1671,-1671,-1575,-1336,-1129,-962,-864,-761,-626,-446,-266,-146,-85,-48,50,194,312,366,411,437,412,466,470,585,597,535,520,530,533,537,606,598,607,628,654,652,686,635,636,611,529,468,429,349,227,138,27,-74,-172,-241,-321,-365,-463,-572,-606,-700,-808,-883,-923,-964,-1002,-1022,-1049,-1059,-1051,-1013,-1009,-992,-980,-926,-865,-843,-831,-737,-703,-674,-656,-621,-596,-624,-570,-525,-477,-455,-339,-244,-113,7,98,264,423,573,718,900,1084,1210,1353,1506,1613,1706,1733,1787,1837,1812,1803,1751,1677,1542,1434,1288,1096,898,703,471,268,33,-186,-349,-572,-741,-903,-1042,-1185,-1333,-1445,-1550,-1604,-1629,-1668,-1693,-1775,-1851,-1937,-2003,-2142,-2305,-2482,-2652,-2919,-3162,-3230,-2989,-2421,-2023,-1573,-1083,-614,-361,75,663,1151,1602,2031,2599,3182,3610,3935,4098,4120,4034,3960,4021,3992,3839,3598,3347,3028,2681,2279,1779,1148,584,71,-322,-678,-1025,-1364,-1629,-1857,-1970,-1946,-1887,-1764,-1624,-1393,-1166,-912,-690,-565,-339,-207,-36,83,132,171,247,267,324,492,714,632,527,425,321,101,-93,-229,-500,-875,-1232,-1539,-1818,-2189,-2628,-2951,-3279,-3665,-3760,-3470,-2970,-2711,-2393,-1912,-1443,-1184,-792,-232,182,463,968,1611,2215,2633,2915,3248,3393,3421,3518,3697,3720,3510,3410,3322,3002,2676,2274,1781,1232,723,326,8,-379,-711,-891,-959,-1037,-1113,-1153,-1195,-1230,-1172,-1042,-846,-746,-645,-514,-371,-242,-163,-68,-36,10,171,421,451,415,387,336,171,66,-103,-445,-776,-1099,-1374,-1636,-2056,-2537,-3002,-3365,-3732,-4024,-4177,-3829,-3413,-3117,-2744,-2129,-1837,-1690,-1143,-513,-27,542,1152,1829,2449,2929,3355,3662,3791,3795,3981,4251,4258,4222,4125,3864,3525,3109,2728,2157,1529,912,452,131,-293,-703,-969,-1163,-1398,-1505,-1497,-1473,-1579,-1468,-1230,-1017,-889,-745,-591,-450,-373,-246,-122,-51,-81,52,189,250,323,411,394,326,185,139,51,-162,-318,-511,-762,-1110,-1406,-1693,-2067,-2445,-2809,-3129,-3353,-3597,-3846,-3784,-3283,-2874,-2677,-2356,-1872,-1588,-1246,-657,-61,407,960,1475,2056,2582,2886,3155,3460,3582,3716,3974,4172,4048,3908,3742,3470,3117,2700,2273,1829,1352,881,579,262,-192,-527,-681,-911,-1096,-1162,-1171,-1185,-1177,-1051,-858,-800,-800,-716,-578,-411,-258,-84,175,265,341,443,524,461,356,266,165,-81,-358,-716,-1091,-1535,-1976,-2384,-2826,-3270,-3570,-3990,-4286,-4681,-4643,-4017,-3539,-3358,-3045,-2441,-2297,-1994,-1109,-317,151,878,1568,2312,2850,3255,3556,3970,4140,4378,4764,5149,4919,4745,4566,4180,3648,3212,2762,2234,1676,1253,804,397,-249,-756,-961,-1232,-1408,-1366,-1315,-1421,-1434,-1300,-1180,-1151,-981,-846,-698,-476,-282,-76,15,16,171,449,656,562,599,553,417,300,294,161,-203,-623,-860,-1103,-1557,-2044,-2361,-2695,-3244,-3420,-3367,-3742,-4204,-4322,-3502,-1736,-1340,-2112,-2547,-2048,-1912,-1275,216,996,770,1104,1584,2241,2447,2120,2180,2772,3155,3656,4349,4349,3207,2728,2753,2590,2405,2198,1909,1607,1156,741,405,-132,-697,-692,-131,11,-230,-364,-545,-735,-714,-432,-257,-384,-379,-103,163,144,-53,-105,8,103,451,649,540,176,34,66,37,-201,-437,-652,-938,-1309,-1521,-1735,-2279,-2688,-2880,-3024,-3106,-3331,-3705,-4170,-4428,-4393,-3496,-2743,-2826,-2895,-2351,-2109,-1730,-785,128,459,989,1707,2391,2783,2895,3087,3599,4021,4250,4651,4794,4271,3847,3939,3876,3586,3232,3038,2584,2031,1498,1135,713,174,-163,-63,-244,-743,-932,-993,-1160,-1100,-759,-588,-606,-644,-477,-242,-155,-148,163,415,446,494,661,492,288,218,237,175,-59,-401,-696,-1056,-1603,-2059,-2294,-2563,-3063,-3354,-3529,-3897,-4496,-4830,-4995,-4950,-3891,-2953,-3147,-3656,-3369,-2908,-2103,-671,373,584,824,1183,1811,2690,3300,3667,4177,4537,4628,4654,4740,4456,4284,4533,4575,4161,3500,2845,2346,2075,1858,1494,985,327,-135,-255,-385,-713,-913,-1079,-1105,-1017,-941,-862,-991,-924,-631,-282,-132,-134,-111,76,266,524,626,575,389,327,409,425,177,-117,-420,-801,-1186,-1614,-2051,-2456,-2764,-2935,-3312,-3708,-4261,-4743,-5042,-4893,-4786,-3623,-3236,-4002,-4433,-3408,-2542,-1658,-564,74,-271,173,1096,2238,3168,3439,3597,3991,4181,4406,4917,5203,4901,4622,4709,4389,3876,3545,3335,3079,2592,1980,1500,907,306,9,208,-83,-779,-1282,-1216,-1296,-1112,-810,-786,-1123,-1124,-757,-251,-74,-61,67,214,356,546,719,626,436,518,720,479,66,-260,-382,-628,-983,-1580,-2246,-2522,-2490,-2757,-3248,-4083,-4546,-4704,-4762,-4595,-4571,-4658,-3950,-3848,-3973,-3749,-2790,-2063,-1344,-599,-155,-23,674,1553,2841,3462,3169,3370,4004,4359,4819,5314,5179,4553,4212,4521,4502,4291,3689,3189,2762,2146,1794,1712,1106,424,185,121,-425,-868,-918,-959,-1094,-1015,-1045,-1009,-1169,-958,-363,-34,-334,-457,-10,385,526,765,650,239,280,710,939,631,-56,-485,-554,-717,-1106,-1422,-1962,-2665,-2948,-2843,-3255,-3955,-4514,-4501,-4719,-5088,-5310,-3761,-3064,-4382,-5125,-3457,-2436,-1851,-734,-109,-1122,-754,1396,3093,3383,2861,2581,3428,4437,5062,5680,5382,4078,3699,5145,5740,4562,3675,3321,2830,2615,2726,2330,1070,395,387,385,131,-639,-1219,-979,-908,-1214,-1136,-1156,-1408,-1213,-360,-415,-762,-599,-158,618,1087,306,-155,340,1186,1484,1353,397,-426,-118,827,654,-536,-2162,-2509,-1626,-886,-2010,-3644,-4595,-4429,-3788,-3238,-4079,-5821,-6732,-4421,-2063,-3187,-5566,-5099,-3003,-1660,-359,-218,-1554,-2025,831,3604,4239,2177,1307,2750,5299,6002,5652,4572,3419,3901,6140,6666,4565,2760,2530,3615,4114,3397,1864,730,462,894,1611,898,-1033,-1868,-924,-225,-613,-1149,-1423,-1473,-1203,-199,-44,-528,-959,-136,738,786,270,284,513,829,1088,951,411,-163,128,564,89,-1170,-1798,-1649,-1534,-1749,-2229,-3487,-4690,-4352,-3218,-3182,-4811,-6551,-6603,-4068,-1566,-3391,-6135,-5564,-2874,-1195,203,-700,-2414,-2095,1624,3742,3490,1777,1325,2909,5453,5812,5257,4256,3746,4602,6313,5862,3967,3261,3583,3751,3672,2929,1687,1330,949,922,788,86,-886,-209,-350,-1531,-1755,-476,-635,-1108,-1081,-1133,-1183,-196,288,44,-621,-323,670,1106,605,394,728,858,642,813,629,-44,-135,-195,-659,-1812,-1942,-1168,-1423,-3245,-4294,-3749,-3014,-3828,-4668,-5258,-5779,-5599,-2743,-2621,-5704,-6862,-2970,-963,-1669,-2398,-2039,-1569,404,2566,2416,1316,950,3174,5242,5405,3609,3831,5193,5426,5036,5285,4840,3796,3941,4493,3800,2755,2455,2647,1720,876,531,947,221,-467,-933,-959,-1194,-1061,-500,-1128,-1873,-1468,-324,-398,-506,-580,-396,-198,464,1124,474,-162,204,1341,1354,651,238,444,413,47,-302,-811,-1496,-1644,-1315,-1773,-3444,-4208,-3546,-2929,-4180,-5465,-5713,-5386,-4988,-2618,-3702,-6771,-6245,-1700,-831,-2583,-2850,-1744,-927,1200,2204,1477,1244,2069,3937,4856,4273,3664,5073,5743,4661,4354,5613,5173,4291,4045,3803,3202,3316,3172,2306,919,690,1294,1481,-49,-1334,-949,-490,-878,-976,-1068,-1801,-1751,-766,-424,-1110,-1035,-544,-295,-261,355,512,210,-52,540,1116,1059,482,362,368,242,108,-161,-940,-1818,-1471,-1153,-2203,-3417,-3523,-3548,-3748,-4171,-4934,-5518,-5362,-4427,-2899,-4833,-6516,-4330,-1148,-2868,-3344,-1786,-837,-1275,923,1735,1121,1753,2939};$/;"	v
+dct	testbench/c_codes/ARM_codes/Mfcc/src/dct.c	/^void dct(MDATA* input, MDATA* output)$/;"	f
+dct	testbench/c_codes/THUMB_codes/Mfcc/src/dct.c	/^void dct(MDATA* input, MDATA* output)$/;"	f
+dct_factor	testbench/c_codes/ARM_codes/Mfcc/src/dct.c	/^MDATA dct_factor[] = {511, 508, 502, 492, 480, 464, 446, 425, 402, 375, 347, 316, 284, 250, 214, 177, 138, 99, 60, 20, -20, -60, -99, -138, -177, -214, -250, -284, -316, -347, -375, -402, -425, -446, -464, -480, -492, -502, -508, -511, 510, 497, 473, 436, 389, 332, 267, 195, 119, 40, -40, -119, -195, -267, -332, -389, -436, -473, -497, -510, -510, -497, -473, -436, -389, -332, -267, -195, -119, -40, 40, 119, 195, 267, 332, 389, 436, 473, 497, 510, 508, 480, 425, 347, 250, 138, 20, -99, -214, -316, -402, -464, -502, -511, -492, -446, -375, -284, -177, -60, 60, 177, 284, 375, 446, 492, 511, 502, 464, 402, 316, 214, 99, -20, -138, -250, -347, -425, -480, -508, 505, 456, 362, 232, 80, -80, -232, -362, -456, -505, -505, -456, -362, -232, -80, 80, 232, 362, 456, 505, 505, 456, 362, 232, 80, -80, -232, -362, -456, -505, -505, -456, -362, -232, -80, 80, 232, 362, 456, 505, 502, 425, 284, 99, -99, -284, -425, -502, -502, -425, -284, -99, 99, 284, 425, 502, 502, 425, 284, 99, -99, -284, -425, -502, -502, -425, -284, -99, 99, 284, 425, 502, 502, 425, 284, 99, -99, -284, -425, -502, 497, 389, 195, -40, -267, -436, -510, -473, -332, -119, 119, 332, 473, 510, 436, 267, 40, -195, -389, -497, -497, -389, -195, 40, 267, 436, 510, 473, 332, 119, -119, -332, -473, -510, -436, -267, -40, 195, 389, 497, 492, 347, 99, -177, -402, -508, -464, -284, -20, 250, 446, 511, 425, 214, -60, -316, -480, -502, -375, -138, 138, 375, 502, 480, 316, 60, -214, -425, -511, -446, -250, 20, 284, 464, 508, 402, 177, -99, -347, -492, 486, 300, 0, -300, -486, -486, -300, 0, 300, 486, 486, 300, 0, -300, -486, -486, -300, 0, 300, 486, 486, 300, 0, -300, -486, -486, -300, 0, 300, 486, 486, 300, 0, -300, -486, -486, -300, 0, 300, 486, 480, 250, -99, -402, -511, -375, -60, 284, 492, 464, 214, -138, -425, -508, -347, -20, 316, 502, 446, 177, -177, -446, -502, -316, 20, 347, 508, 425, 138, -214, -464, -492, -284, 60, 375, 511, 402, 99, -250, -480, 473, 195, -195, -473, -473, -195, 195, 473, 473, 195, -195, -473, -473, -195, 195, 473, 473, 195, -195, -473, -473, -195, 195, 473, 473, 195, -195, -473, -473, -195, 195, 473, 473, 195, -195, -473, -473, -195, 195, 473, 464, 138, -284, -508, -375, 20, 402, 502, 250, -177, -480, -446, -99, 316, 511, 347, -60, -425, -492, -214, 214, 492, 425, 60, -347, -511, -316, 99, 446, 480, 177, -250, -502, -402, -20, 375, 508, 284, -138, -464, 456, 80, -362, -505, -232, 232, 505, 362, -80, -456, -456, -80, 362, 505, 232, -232, -505, -362, 80, 456, 456, 80, -362, -505, -232, 232, 505, 362, -80, -456, -456, -80, 362, 505, 232, -232, -505, -362, 80, 456, 446, 20, -425, -464, -60, 402, 480, 99, -375, -492, -138, 347, 502, 177, -316, -508, -214, 284, 511, 250, -250, -511, -284, 214, 508, 316, -177, -502, -347, 138, 492, 375, -99, -480, -402, 60, 464, 425, -20, -446};$/;"	v
+dct_factor	testbench/c_codes/THUMB_codes/Mfcc/src/dct.c	/^MDATA dct_factor[] = {511, 508, 502, 492, 480, 464, 446, 425, 402, 375, 347, 316, 284, 250, 214, 177, 138, 99, 60, 20, -20, -60, -99, -138, -177, -214, -250, -284, -316, -347, -375, -402, -425, -446, -464, -480, -492, -502, -508, -511, 510, 497, 473, 436, 389, 332, 267, 195, 119, 40, -40, -119, -195, -267, -332, -389, -436, -473, -497, -510, -510, -497, -473, -436, -389, -332, -267, -195, -119, -40, 40, 119, 195, 267, 332, 389, 436, 473, 497, 510, 508, 480, 425, 347, 250, 138, 20, -99, -214, -316, -402, -464, -502, -511, -492, -446, -375, -284, -177, -60, 60, 177, 284, 375, 446, 492, 511, 502, 464, 402, 316, 214, 99, -20, -138, -250, -347, -425, -480, -508, 505, 456, 362, 232, 80, -80, -232, -362, -456, -505, -505, -456, -362, -232, -80, 80, 232, 362, 456, 505, 505, 456, 362, 232, 80, -80, -232, -362, -456, -505, -505, -456, -362, -232, -80, 80, 232, 362, 456, 505, 502, 425, 284, 99, -99, -284, -425, -502, -502, -425, -284, -99, 99, 284, 425, 502, 502, 425, 284, 99, -99, -284, -425, -502, -502, -425, -284, -99, 99, 284, 425, 502, 502, 425, 284, 99, -99, -284, -425, -502, 497, 389, 195, -40, -267, -436, -510, -473, -332, -119, 119, 332, 473, 510, 436, 267, 40, -195, -389, -497, -497, -389, -195, 40, 267, 436, 510, 473, 332, 119, -119, -332, -473, -510, -436, -267, -40, 195, 389, 497, 492, 347, 99, -177, -402, -508, -464, -284, -20, 250, 446, 511, 425, 214, -60, -316, -480, -502, -375, -138, 138, 375, 502, 480, 316, 60, -214, -425, -511, -446, -250, 20, 284, 464, 508, 402, 177, -99, -347, -492, 486, 300, 0, -300, -486, -486, -300, 0, 300, 486, 486, 300, 0, -300, -486, -486, -300, 0, 300, 486, 486, 300, 0, -300, -486, -486, -300, 0, 300, 486, 486, 300, 0, -300, -486, -486, -300, 0, 300, 486, 480, 250, -99, -402, -511, -375, -60, 284, 492, 464, 214, -138, -425, -508, -347, -20, 316, 502, 446, 177, -177, -446, -502, -316, 20, 347, 508, 425, 138, -214, -464, -492, -284, 60, 375, 511, 402, 99, -250, -480, 473, 195, -195, -473, -473, -195, 195, 473, 473, 195, -195, -473, -473, -195, 195, 473, 473, 195, -195, -473, -473, -195, 195, 473, 473, 195, -195, -473, -473, -195, 195, 473, 473, 195, -195, -473, -473, -195, 195, 473, 464, 138, -284, -508, -375, 20, 402, 502, 250, -177, -480, -446, -99, 316, 511, 347, -60, -425, -492, -214, 214, 492, 425, 60, -347, -511, -316, 99, 446, 480, 177, -250, -502, -402, -20, 375, 508, 284, -138, -464, 456, 80, -362, -505, -232, 232, 505, 362, -80, -456, -456, -80, 362, 505, 232, -232, -505, -362, 80, 456, 456, 80, -362, -505, -232, 232, 505, 362, -80, -456, -456, -80, 362, 505, 232, -232, -505, -362, 80, 456, 446, 20, -425, -464, -60, 402, 480, 99, -375, -492, -138, 347, 502, 177, -316, -508, -214, 284, 511, 250, -250, -511, -284, 214, 508, 316, -177, -502, -347, 138, 492, 375, -99, -480, -402, 60, 464, 425, -20, -446};$/;"	v
+de1	include/arm.h	/^	int32u_t de1,de2; 			\/\/ results of the two-stage decoding$/;"	m	struct:_instruction
+de2	include/arm.h	/^	int32u_t de1,de2; 			\/\/ results of the two-stage decoding$/;"	m	struct:_instruction
+debug	include/common.h	35;"	d
+debug	include/common.h	37;"	d
+delt_weight	testbench/c_codes/ARM_codes/Mfcc/src/util.h	37;"	d
+delt_weight	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	37;"	d
+delt_window	testbench/c_codes/ARM_codes/Mfcc/src/mfcc.c	/^MDATA delt_window[5][13];$/;"	v
+delt_window	testbench/c_codes/THUMB_codes/Mfcc/src/mfcc.c	/^MDATA delt_window[5][13];$/;"	v
+deltawindow	testbench/c_codes/ARM_codes/Mfcc/src/util.h	34;"	d
+deltawindow	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	34;"	d
+dft	testbench/c_codes/ARM_codes/Mfcc/src/dft.c	/^void dft(MDATA* input, MDATA* output)$/;"	f
+dft	testbench/c_codes/THUMB_codes/Mfcc/src/dft.c	/^void dft(MDATA* input, MDATA* output)$/;"	f
+display_ARM_env	main/main.c	/^void display_ARM_env()$/;"	f
+display_large_word	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^u32	display_large_word(char* str, u32* modular, u32 num_word){$/;"	f
+display_large_word	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^u32	display_large_word(char* str, u32* modular, u32 num_word){$/;"	f
+e1	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^double 		e1[4];$/;"	v
+e1	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^double 		e1[4];$/;"	v
+enc_gen_poly	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	/^unsigned int *enc_gen_poly;$/;"	v
+enc_gen_poly	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	/^unsigned int *enc_gen_poly;$/;"	v
+env	include/arm.h	/^CPUState_t *env;$/;"	v
+eor	thumb/thumb1/thumb1.c	/^static void eor()$/;"	f	file:
+err	testbench/c_codes/ARM_codes/Turbo/src/header/top.h	/^int err;\/\/  __attribute__((section(".err")));$/;"	v
+errb	testbench/c_codes/ARM_codes/Turbo/src/header/top.h	/^int errb;\/\/ __attribute__((section(".errb")));$/;"	v
+exec	include/arm.h	/^	void (*exec)(); 			\/\/ point to the emulation routine$/;"	m	struct:_instruction
+extrinL1	testbench/c_codes/ARM_codes/Turbo/src/header/turbo_decoder.h	/^int extrinL1[CodeLen+3] = {0};$/;"	v
+extrinL2	testbench/c_codes/ARM_codes/Turbo/src/header/turbo_decoder.h	/^int extrinL2[CodeLen+3] = {0};$/;"	v
+f1	testbench/c_codes/ARM_codes/Turbo/src/header/top.h	/^unsigned int f1;$/;"	v
+f2	testbench/c_codes/ARM_codes/Turbo/src/header/top.h	/^unsigned int f2;$/;"	v
+false	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	402;"	d
+false	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	402;"	d
+fiq_reg	include/arm.h	/^	int32u_t fiq_reg[5];    \/\/ R8-R12 of FIQ mode$/;"	m	struct:_CPUState
+fxp_sqrt	testbench/c_codes/ARM_codes/Mfcc/src/dft.c	/^int fxp_sqrt(long long int input)$/;"	f
+fxp_sqrt	testbench/c_codes/THUMB_codes/Mfcc/src/dft.c	/^int fxp_sqrt(long long int input)$/;"	f
+get_cepstrum	testbench/c_codes/ARM_codes/Mfcc/src/mfcc.c	/^int get_cepstrum(short*input, MDATA* result)$/;"	f
+get_cepstrum	testbench/c_codes/THUMB_codes/Mfcc/src/mfcc.c	/^int get_cepstrum(short*input, MDATA* result)$/;"	f
+gf_gen	testbench/c_codes/ARM_codes/Galoisfield/src/main.c	/^int gf_gen(unsigned int mm)$/;"	f
+gf_gen	testbench/c_codes/THUMB_codes/Galoisfield/src/main.c	/^int gf_gen(unsigned int mm)$/;"	f
+gf_get_primitive	testbench/c_codes/ARM_codes/Galoisfield/src/main.c	/^unsigned int gf_get_primitive(unsigned int m, unsigned int *primitive)$/;"	f
+gf_get_primitive	testbench/c_codes/THUMB_codes/Galoisfield/src/main.c	/^unsigned int gf_get_primitive(unsigned int m, unsigned int *primitive)$/;"	f
+hamming_window	testbench/c_codes/ARM_codes/Mfcc/src/rcw.c	/^MDATA hamming_window[] = {40, 40, 41, 41, 41, 41, 41, 42, 42, 43, 43, 44, 44, 45, 46, 47, 48, 48, 49, 50, 51, 53, 54, 55, 56, 58, 59, 60, 62, 63, 65, 67, 68, 70, 72, 74, 75, 77, 79, 81, 83, 85, 88, 90, 92, 94, 97, 99, 101, 104, 106, 109, 111, 114, 117, 119, 122, 125, 128, 130, 133, 136, 139, 142, 145, 148, 151, 154, 157, 160, 163, 167, 170, 173, 176, 180, 183, 186, 190, 193, 196, 200, 203, 207, 210, 214, 217, 221, 224, 228, 231, 235, 238, 242, 245, 249, 253, 256, 260, 263, 267, 271, 274, 278, 281, 285, 289, 292, 296, 299, 303, 307, 310, 314, 317, 321, 324, 328, 331, 335, 338, 342, 345, 349, 352, 356, 359, 362, 366, 369, 372, 376, 379, 382, 385, 388, 392, 395, 398, 401, 404, 407, 410, 413, 416, 419, 422, 424, 427, 430, 433, 435, 438, 441, 443, 446, 448, 451, 453, 455, 458, 460, 462, 464, 467, 469, 471, 473, 475, 477, 478, 480, 482, 484, 485, 487, 489, 490, 492, 493, 494, 496, 497, 498, 499, 501, 502, 503, 504, 504, 505, 506, 507, 508, 508, 509, 509, 510, 510, 511, 511, 511, 511, 511, 511, 512, 511, 511, 511, 511, 511, 511, 510, 510, 509, 509, 508, 508, 507, 506, 505, 504, 504, 503, 502, 501, 499, 498, 497, 496, 494, 493, 492, 490, 489, 487, 485, 484, 482, 480, 478, 477, 475, 473, 471, 469, 467, 464, 462, 460, 458, 455, 453, 451, 448, 446, 443, 441, 438, 435, 433, 430, 427, 424, 422, 419, 416, 413, 410, 407, 404, 401, 398, 395, 392, 388, 385, 382, 379, 376, 372, 369, 366, 362, 359, 356, 352, 349, 345, 342, 338, 335, 331, 328, 324, 321, 317, 314, 310, 307, 303, 299, 296, 292, 289, 285, 281, 278, 274, 271, 267, 263, 260, 256, 253, 249, 245, 242, 238, 235, 231, 228, 224, 221, 217, 214, 210, 207, 203, 200, 196, 193, 190, 186, 183, 180, 176, 173, 170, 167, 163, 160, 157, 154, 151, 148, 145, 142, 139, 136, 133, 130, 128, 125, 122, 119, 117, 114, 111, 109, 106, 104, 101, 99, 97, 94, 92, 90, 88, 85, 83, 81, 79, 77, 75, 74, 72, 70, 68, 67, 65, 63, 62, 60, 59, 58, 56, 55, 54, 53, 51, 50, 49, 48, 48, 47, 46, 45, 44, 44, 43, 43, 42, 42, 41, 41, 41, 41, 41, 40};$/;"	v
+hamming_window	testbench/c_codes/THUMB_codes/Mfcc/src/rcw.c	/^MDATA hamming_window[] = {40, 40, 41, 41, 41, 41, 41, 42, 42, 43, 43, 44, 44, 45, 46, 47, 48, 48, 49, 50, 51, 53, 54, 55, 56, 58, 59, 60, 62, 63, 65, 67, 68, 70, 72, 74, 75, 77, 79, 81, 83, 85, 88, 90, 92, 94, 97, 99, 101, 104, 106, 109, 111, 114, 117, 119, 122, 125, 128, 130, 133, 136, 139, 142, 145, 148, 151, 154, 157, 160, 163, 167, 170, 173, 176, 180, 183, 186, 190, 193, 196, 200, 203, 207, 210, 214, 217, 221, 224, 228, 231, 235, 238, 242, 245, 249, 253, 256, 260, 263, 267, 271, 274, 278, 281, 285, 289, 292, 296, 299, 303, 307, 310, 314, 317, 321, 324, 328, 331, 335, 338, 342, 345, 349, 352, 356, 359, 362, 366, 369, 372, 376, 379, 382, 385, 388, 392, 395, 398, 401, 404, 407, 410, 413, 416, 419, 422, 424, 427, 430, 433, 435, 438, 441, 443, 446, 448, 451, 453, 455, 458, 460, 462, 464, 467, 469, 471, 473, 475, 477, 478, 480, 482, 484, 485, 487, 489, 490, 492, 493, 494, 496, 497, 498, 499, 501, 502, 503, 504, 504, 505, 506, 507, 508, 508, 509, 509, 510, 510, 511, 511, 511, 511, 511, 511, 512, 511, 511, 511, 511, 511, 511, 510, 510, 509, 509, 508, 508, 507, 506, 505, 504, 504, 503, 502, 501, 499, 498, 497, 496, 494, 493, 492, 490, 489, 487, 485, 484, 482, 480, 478, 477, 475, 473, 471, 469, 467, 464, 462, 460, 458, 455, 453, 451, 448, 446, 443, 441, 438, 435, 433, 430, 427, 424, 422, 419, 416, 413, 410, 407, 404, 401, 398, 395, 392, 388, 385, 382, 379, 376, 372, 369, 366, 362, 359, 356, 352, 349, 345, 342, 338, 335, 331, 328, 324, 321, 317, 314, 310, 307, 303, 299, 296, 292, 289, 285, 281, 278, 274, 271, 267, 263, 260, 256, 253, 249, 245, 242, 238, 235, 231, 228, 224, 221, 217, 214, 210, 207, 203, 200, 196, 193, 190, 186, 183, 180, 176, 173, 170, 167, 163, 160, 157, 154, 151, 148, 145, 142, 139, 136, 133, 130, 128, 125, 122, 119, 117, 114, 111, 109, 106, 104, 101, 99, 97, 94, 92, 90, 88, 85, 83, 81, 79, 77, 75, 74, 72, 70, 68, 67, 65, 63, 62, 60, 59, 58, 56, 55, 54, 53, 51, 50, 49, 48, 48, 47, 46, 45, 44, 44, 43, 43, 42, 42, 41, 41, 41, 41, 41, 40};$/;"	v
+handler	common/handler.c	/^void handler(hparam_t *param)$/;"	f
+hard_decision	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^unsigned char hard_decision(int rcvu[], int pL[], int eL[])$/;"	f
+hparam	include/common.h	/^hparam_t *hparam;$/;"	v
+hparam_t	include/common.h	/^} hparam_t;$/;"	t	typeref:struct:_handler_param
+i	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+i	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+idx	testbench/c_codes/ARM_codes/Tree_traversal/src/tree_traversal.c	/^int idx;$/;"	v
+idx	testbench/c_codes/THUMB_codes/Tree_traversal/src/tree_traversal.c	/^int idx;$/;"	v
+imm	include/arm.h	/^	int32u_t imm; 				\/\/ immediate number$/;"	m	struct:_instruction
+in_order	testbench/c_codes/ARM_codes/Tree_traversal/src/tree_traversal.c	/^void in_order (t_node * parent) {$/;"	f
+in_order	testbench/c_codes/THUMB_codes/Tree_traversal/src/tree_traversal.c	/^void in_order (t_node * parent) {$/;"	f
+index_of	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	/^unsigned int *index_of;$/;"	v
+index_of	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	/^unsigned int *index_of;$/;"	v
+init	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^void init()$/;"	f
+init_ARM_env	main/main.c	/^int init_ARM_env()$/;"	f
+init_ARM_ins	main/main.c	/^int init_ARM_ins()$/;"	f
+init_fnc_t	main/main.c	/^typedef int (init_fnc_t) (void);$/;"	t	file:
+init_handler_param	main/main.c	/^int init_handler_param()$/;"	f
+init_inst_buffer	main/main.c	/^int init_inst_buffer()$/;"	f
+init_lib_string	common/lib_string.c	/^void init_lib_string()$/;"	f
+init_sequence	main/main.c	/^init_fnc_t *init_sequence[] = {$/;"	v
+input_num	testbench/c_codes/ARM_codes/Tree_traversal/src/inout.h	/^int input_num[16] = {$/;"	v
+input_num	testbench/c_codes/THUMB_codes/Tree_traversal/src/inout.h	/^int input_num[16] = {$/;"	v
+input_size	testbench/c_codes/ARM_codes/Tree_traversal/src/inout.h	/^int input_size = 16;$/;"	v
+input_size	testbench/c_codes/THUMB_codes/Tree_traversal/src/inout.h	/^int input_size = 16;$/;"	v
+ins	include/arm.h	/^	int32u_t ins; 				\/\/ opcode$/;"	m	struct:_instruction
+ins	include/arm.h	/^Instruction_t *ins;$/;"	v
+insert_sort	testbench/c_codes/ARM_codes/Sorts/src/sorts.c	/^static void insert_sort(char *strings[], int n)$/;"	f	file:
+insert_sort	testbench/c_codes/THUMB_codes/Sorts/src/sorts.c	/^static void insert_sort(char *strings[], int n)$/;"	f	file:
+inst_buffer	include/common.h	/^int32u_t *inst_buffer;$/;"	v
+int16s_t	include/common.h	/^typedef short int16s_t;$/;"	t
+int16u_t	include/common.h	/^typedef unsigned short int16u_t;$/;"	t
+int2str	common/lib_string.c	/^void int2str(int8s_t *str, int32s_t value, int32s_t radix)$/;"	f
+int32s_t	include/common.h	/^typedef int int32s_t;$/;"	t
+int32u_t	include/common.h	/^typedef unsigned int int32u_t;$/;"	t
+int8s_t	include/common.h	/^typedef char int8s_t;$/;"	t
+int8u_t	include/common.h	/^typedef unsigned char int8u_t;$/;"	t
+interleaver	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^int interleaver(int addrIn)$/;"	f
+inverse_table	testbench/c_codes/ARM_codes/Mfcc/src/dft.c	/^short inverse_table[] = {0, 256, 128, 384, 64, 320, 192, 448, 32, 288, 160, 416, 96, 352, 224, 480, 16, 272, 144, 400, 80, 336, 208, 464, 48, 304, 176, 432, 112, 368, 240, 496, 8, 264, 136, 392, 72, 328, 200, 456, 40, 296, 168, 424, 104, 360, 232, 488, 24, 280, 152, 408, 88, 344, 216, 472, 56, 312, 184, 440, 120, 376, 248, 504, 4, 260, 132, 388, 68, 324, 196, 452, 36, 292, 164, 420, 100, 356, 228, 484, 20, 276, 148, 404, 84, 340, 212, 468, 52, 308, 180, 436, 116, 372, 244, 500, 12, 268, 140, 396, 76, 332, 204, 460, 44, 300, 172, 428, 108, 364, 236, 492, 28, 284, 156, 412, 92, 348, 220, 476, 60, 316, 188, 444, 124, 380, 252, 508, 2, 258, 130, 386, 66, 322, 194, 450, 34, 290, 162, 418, 98, 354, 226, 482, 18, 274, 146, 402, 82, 338, 210, 466, 50, 306, 178, 434, 114, 370, 242, 498, 10, 266, 138, 394, 74, 330, 202, 458, 42, 298, 170, 426, 106, 362, 234, 490, 26, 282, 154, 410, 90, 346, 218, 474, 58, 314, 186, 442, 122, 378, 250, 506, 6, 262, 134, 390, 70, 326, 198, 454, 38, 294, 166, 422, 102, 358, 230, 486, 22, 278, 150, 406, 86, 342, 214, 470, 54, 310, 182, 438, 118, 374, 246, 502, 14, 270, 142, 398, 78, 334, 206, 462, 46, 302, 174, 430, 110, 366, 238, 494, 30, 286, 158, 414, 94, 350, 222, 478, 62, 318, 190, 446, 126, 382, 254, 510, 1, 257, 129, 385, 65, 321, 193, 449, 33, 289, 161, 417, 97, 353, 225, 481, 17, 273, 145, 401, 81, 337, 209, 465, 49, 305, 177, 433, 113, 369, 241, 497, 9, 265, 137, 393, 73, 329, 201, 457, 41, 297, 169, 425, 105, 361, 233, 489, 25, 281, 153, 409, 89, 345, 217, 473, 57, 313, 185, 441, 121, 377, 249, 505, 5, 261, 133, 389, 69, 325, 197, 453, 37, 293, 165, 421, 101, 357, 229, 485, 21, 277, 149, 405, 85, 341, 213, 469, 53, 309, 181, 437, 117, 373, 245, 501, 13, 269, 141, 397, 77, 333, 205, 461, 45, 301, 173, 429, 109, 365, 237, 493, 29, 285, 157, 413, 93, 349, 221, 477, 61, 317, 189, 445, 125, 381, 253, 509, 3, 259, 131, 387, 67, 323, 195, 451, 35, 291, 163, 419, 99, 355, 227, 483, 19, 275, 147, 403, 83, 339, 211, 467, 51, 307, 179, 435, 115, 371, 243, 499, 11, 267, 139, 395, 75, 331, 203, 459, 43, 299, 171, 427, 107, 363, 235, 491, 27, 283, 155, 411, 91, 347, 219, 475, 59, 315, 187, 443, 123, 379, 251, 507, 7, 263, 135, 391, 71, 327, 199, 455, 39, 295, 167, 423, 103, 359, 231, 487, 23, 279, 151, 407, 87, 343, 215, 471, 55, 311, 183, 439, 119, 375, 247, 503, 15, 271, 143, 399, 79, 335, 207, 463, 47, 303, 175, 431, 111, 367, 239, 495, 31, 287, 159, 415, 95, 351, 223, 479, 63, 319, 191, 447, 127, 383, 255, 511};$/;"	v
+inverse_table	testbench/c_codes/THUMB_codes/Mfcc/src/dft.c	/^short inverse_table[] = {0, 256, 128, 384, 64, 320, 192, 448, 32, 288, 160, 416, 96, 352, 224, 480, 16, 272, 144, 400, 80, 336, 208, 464, 48, 304, 176, 432, 112, 368, 240, 496, 8, 264, 136, 392, 72, 328, 200, 456, 40, 296, 168, 424, 104, 360, 232, 488, 24, 280, 152, 408, 88, 344, 216, 472, 56, 312, 184, 440, 120, 376, 248, 504, 4, 260, 132, 388, 68, 324, 196, 452, 36, 292, 164, 420, 100, 356, 228, 484, 20, 276, 148, 404, 84, 340, 212, 468, 52, 308, 180, 436, 116, 372, 244, 500, 12, 268, 140, 396, 76, 332, 204, 460, 44, 300, 172, 428, 108, 364, 236, 492, 28, 284, 156, 412, 92, 348, 220, 476, 60, 316, 188, 444, 124, 380, 252, 508, 2, 258, 130, 386, 66, 322, 194, 450, 34, 290, 162, 418, 98, 354, 226, 482, 18, 274, 146, 402, 82, 338, 210, 466, 50, 306, 178, 434, 114, 370, 242, 498, 10, 266, 138, 394, 74, 330, 202, 458, 42, 298, 170, 426, 106, 362, 234, 490, 26, 282, 154, 410, 90, 346, 218, 474, 58, 314, 186, 442, 122, 378, 250, 506, 6, 262, 134, 390, 70, 326, 198, 454, 38, 294, 166, 422, 102, 358, 230, 486, 22, 278, 150, 406, 86, 342, 214, 470, 54, 310, 182, 438, 118, 374, 246, 502, 14, 270, 142, 398, 78, 334, 206, 462, 46, 302, 174, 430, 110, 366, 238, 494, 30, 286, 158, 414, 94, 350, 222, 478, 62, 318, 190, 446, 126, 382, 254, 510, 1, 257, 129, 385, 65, 321, 193, 449, 33, 289, 161, 417, 97, 353, 225, 481, 17, 273, 145, 401, 81, 337, 209, 465, 49, 305, 177, 433, 113, 369, 241, 497, 9, 265, 137, 393, 73, 329, 201, 457, 41, 297, 169, 425, 105, 361, 233, 489, 25, 281, 153, 409, 89, 345, 217, 473, 57, 313, 185, 441, 121, 377, 249, 505, 5, 261, 133, 389, 69, 325, 197, 453, 37, 293, 165, 421, 101, 357, 229, 485, 21, 277, 149, 405, 85, 341, 213, 469, 53, 309, 181, 437, 117, 373, 245, 501, 13, 269, 141, 397, 77, 333, 205, 461, 45, 301, 173, 429, 109, 365, 237, 493, 29, 285, 157, 413, 93, 349, 221, 477, 61, 317, 189, 445, 125, 381, 253, 509, 3, 259, 131, 387, 67, 323, 195, 451, 35, 291, 163, 419, 99, 355, 227, 483, 19, 275, 147, 403, 83, 339, 211, 467, 51, 307, 179, 435, 115, 371, 243, 499, 11, 267, 139, 395, 75, 331, 203, 459, 43, 299, 171, 427, 107, 363, 235, 491, 27, 283, 155, 411, 91, 347, 219, 475, 59, 315, 187, 443, 123, 379, 251, 507, 7, 263, 135, 391, 71, 327, 199, 455, 39, 295, 167, 423, 103, 359, 231, 487, 23, 279, 151, 407, 87, 343, 215, 471, 55, 311, 183, 439, 119, 375, 247, 503, 15, 271, 143, 399, 79, 335, 207, 463, 47, 303, 175, 431, 111, 367, 239, 495, 31, 287, 159, 415, 95, 351, 223, 479, 63, 319, 191, 447, 127, 383, 255, 511};$/;"	v
+isalnum	include/my_ctype.h	51;"	d
+isalpha	include/my_ctype.h	52;"	d
+isascii	include/my_ctype.h	63;"	d
+iscntrl	include/my_ctype.h	53;"	d
+isdigit	include/my_ctype.h	54;"	d
+isgraph	include/my_ctype.h	55;"	d
+islower	include/my_ctype.h	56;"	d
+isprint	include/my_ctype.h	57;"	d
+ispunct	include/my_ctype.h	58;"	d
+isspace	include/my_ctype.h	59;"	d
+isupper	include/my_ctype.h	60;"	d
+isxdigit	include/my_ctype.h	61;"	d
+j	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+j	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+k	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	/^    unsigned int k;$/;"	m	struct:__anon1
+k	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+k	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	/^    unsigned int k;$/;"	m	struct:__anon7
+k	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+l	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+l	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+l_ch	testbench/c_codes/ARM_codes/Tree_traversal/src/tree_traversal.c	/^	struct tree_node * l_ch;$/;"	m	struct:tree_node	typeref:struct:tree_node::tree_node	file:
+l_ch	testbench/c_codes/THUMB_codes/Tree_traversal/src/tree_traversal.c	/^	struct tree_node * l_ch;$/;"	m	struct:tree_node	typeref:struct:tree_node::tree_node	file:
+large_absolute	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^u32	large_absolute(u32* in1, u32* out, u32 num_word){$/;"	f
+large_absolute	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^u32	large_absolute(u32* in1, u32* out, u32 num_word){$/;"	f
+large_addition	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^u32	large_addition(u32* in1, u32* in2, u32* out, u32 mode, u32 num_word){$/;"	f
+large_addition	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^u32	large_addition(u32* in1, u32* in2, u32* out, u32 mode, u32 num_word){$/;"	f
+large_bitwidth	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^u32	large_bitwidth(u32* in1, u32* out, u32 num_word){$/;"	f
+large_bitwidth	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^u32	large_bitwidth(u32* in1, u32* out, u32 num_word){$/;"	f
+large_comparison	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^u32	large_comparison(u32* in1, u32* in2, u32* out, u32 mode, u32 num_word){$/;"	f
+large_comparison	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^u32	large_comparison(u32* in1, u32* in2, u32* out, u32 mode, u32 num_word){$/;"	f
+large_comparison_const	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^u32	large_comparison_const(u32* in1, u32 in2, u32* out, u32 mode, u32 num_word){$/;"	f
+large_comparison_const	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^u32	large_comparison_const(u32* in1, u32 in2, u32* out, u32 mode, u32 num_word){$/;"	f
+large_multiplication	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^u32	large_multiplication(u32* in1, u32* in2, u32* out, u32 num_word){$/;"	f
+large_multiplication	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^u32	large_multiplication(u32* in1, u32* in2, u32* out, u32 num_word){$/;"	f
+large_multiplication_general	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^u32	large_multiplication_general(u32* in1, u32* in2, u32* out, u32 num_word1, u32 num_word2){$/;"	f
+large_multiplication_general	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^u32	large_multiplication_general(u32* in1, u32* in2, u32* out, u32 num_word1, u32 num_word2){$/;"	f
+large_shift	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^u32	large_shift(u32* in1, u32* out, u32 shift_amount, u32 mode, u32 num_word){$/;"	f
+large_shift	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^u32	large_shift(u32* in1, u32* out, u32 shift_amount, u32 mode, u32 num_word){$/;"	f
+length1	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^int length1, length2;$/;"	v
+length1	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^int length1, length2;$/;"	v
+length2	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^int length1, length2;$/;"	v
+length2	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^int length1, length2;$/;"	v
+lif	testbench/c_codes/ARM_codes/Mfcc/src/lif.c	/^void lif(MDATA* input, MDATA*output)$/;"	f
+lif	testbench/c_codes/THUMB_codes/Mfcc/src/lif.c	/^void lif(MDATA* input, MDATA*output)$/;"	f
+lifter_filter	testbench/c_codes/ARM_codes/Mfcc/src/lif.c	/^MDATA lifter_filter[] = {1313, 2098, 2851, 3556, 4200, 4768, 5249, 5635, 5915, 6086, 6144, 6086, 5915};$/;"	v
+lifter_filter	testbench/c_codes/THUMB_codes/Mfcc/src/lif.c	/^MDATA lifter_filter[] = {1313, 2098, 2851, 3556, 4200, 4768, 5249, 5635, 5915, 6086, 6144, 6086, 5915};$/;"	v
+llr_max	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^int llr_max;$/;"	v
+ln	testbench/c_codes/ARM_codes/Mfcc/src/mel.c	/^MDATA ln(MDATA input){$/;"	f
+ln	testbench/c_codes/THUMB_codes/Mfcc/src/mel.c	/^MDATA ln(MDATA input){$/;"	f
+log_iteration	testbench/c_codes/ARM_codes/Mfcc/src/util.h	31;"	d
+log_iteration	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	31;"	d
+logfilter	testbench/c_codes/ARM_codes/Mfcc/src/mel.c	/^MDATA logfilter[] = {512, 256, 170, 128, 102};$/;"	v
+logfilter	testbench/c_codes/THUMB_codes/Mfcc/src/mel.c	/^MDATA logfilter[] = {512, 256, 170, 128, 102};$/;"	v
+lsl1	thumb/thumb1/thumb1.c	/^static void lsl1()$/;"	f	file:
+lsl2	thumb/thumb1/thumb1.c	/^static void lsl2()$/;"	f	file:
+lsr1	thumb/thumb1/thumb1.c	/^static void lsr1()$/;"	f	file:
+lsr2	thumb/thumb1/thumb1.c	/^static void lsr2()$/;"	f	file:
+m	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	/^    unsigned int m;$/;"	m	struct:__anon1
+m	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	/^    unsigned int m;$/;"	m	struct:__anon7
+main	main/main.c	/^int main()$/;"	f
+main	testbench/c_codes/ARM_codes/Bubble_sort/src/bubble_sort.c	/^int main()$/;"	f
+main	testbench/c_codes/ARM_codes/Dct/src/dct.c	/^int main(){$/;"	f
+main	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^main ()$/;"	f
+main	testbench/c_codes/ARM_codes/Galoisfield/src/main.c	/^int main(int argc, char *argv[])$/;"	f
+main	testbench/c_codes/ARM_codes/Mfcc/src/main.c	/^int main(void)$/;"	f
+main	testbench/c_codes/ARM_codes/Mimo/src/mimo.c	/^int main(){$/;"	f
+main	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^int	main	()	{$/;"	f
+main	testbench/c_codes/ARM_codes/Sorts/src/sorts.c	/^int main(void)$/;"	f
+main	testbench/c_codes/ARM_codes/Tree_traversal/src/tree_traversal.c	/^int main () {$/;"	f
+main	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^int main()$/;"	f
+main	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^main()$/;"	f
+main	testbench/c_codes/THUMB_codes/Dct/src/dct.c	/^int main(){$/;"	f
+main	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^main ()$/;"	f
+main	testbench/c_codes/THUMB_codes/Galoisfield/src/main.c	/^int main(int argc, char *argv[])$/;"	f
+main	testbench/c_codes/THUMB_codes/Mfcc/src/main.c	/^int main(void)$/;"	f
+main	testbench/c_codes/THUMB_codes/Mimo/src/mimo.c	/^int main(){$/;"	f
+main	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^int	main	()	{$/;"	f
+main	testbench/c_codes/THUMB_codes/Sorts/src/sorts.c	/^int main(void)$/;"	f
+main	testbench/c_codes/THUMB_codes/Tree_traversal/src/tree_traversal.c	/^int main () {$/;"	f
+main	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^main()$/;"	f
+map_decoder	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^void map_decoder(int rcvu[], int rcvp[], int pL[], int *eL)$/;"	f
+mel	testbench/c_codes/ARM_codes/Mfcc/src/mel.c	/^void mel(MDATA* input, MDATA* output)$/;"	f
+mel	testbench/c_codes/THUMB_codes/Mfcc/src/mel.c	/^void mel(MDATA* input, MDATA* output)$/;"	f
+mel_filter	testbench/c_codes/ARM_codes/Mfcc/src/mel.c	/^MDATA mel_filter[] = {293, 387, 56, 124, 455, 251, 260, 452, 155, 59, 356, 377, 95, 134, 416, 335, 68, 176, 443, 323, 69, 188, 442, 338, 98, 173, 413, 377, 150, 134, 361, 438, 223, 7, 73, 288, 504, 314, 110, 197, 401, 423, 229, 35, 88, 282, 476, 362, 179, 149, 332, 507, 333, 159, 4, 178, 352, 498, 333, 169, 4, 13, 178, 342, 507, 359, 203, 47, 152, 308, 464, 408, 260, 112, 103, 251, 399, 478, 338, 198, 57, 33, 173, 313, 454, 433, 300, 167, 34, 78, 211, 344, 477, 419, 293, 166, 40, 92, 218, 345, 471, 431, 311, 192, 73, 80, 200, 319, 438, 468, 354, 241, 128, 15, 43, 157, 270, 383, 496, 419, 312, 204, 97, 92, 199, 307, 414, 502, 401, 299, 197, 96, 9, 110, 212, 314, 415, 506, 410, 313, 217, 121, 24, 5, 101, 198, 294, 390, 487, 444, 352, 261, 170, 79, 67, 159, 250, 341, 432, 500, 413, 327, 240, 154, 67, 11, 98, 184, 271, 357, 444, 494, 412, 330, 248, 166, 84, 2, 17, 99, 181, 263, 345, 427, 509, 436, 358, 280, 203, 125, 47, 75, 153, 231, 308, 386, 464, 483, 409, 336, 262, 188, 115, 41, 28, 102, 175, 249, 323, 396, 470, 481, 411, 341, 271, 202, 132, 62, 30, 100, 170, 240, 309, 379, 449, 505, 438, 372, 306, 240, 174, 108, 41, 6, 73, 139, 205, 271, 337, 403, 470, 489, 426, 363, 300, 238, 175, 112, 50, 22, 85, 148, 211, 273, 336, 399, 461, 500, 440, 381, 321, 262, 202, 143, 84, 24, 11, 71, 130, 190, 249, 309, 368, 427, 487, 479, 422, 366, 310, 253, 197, 141, 84, 28, 32, 89, 145, 201, 258, 314, 370, 427, 483, 485, 432, 378, 325, 272, 218, 165, 111, 58, 5, 26, 79, 133, 186, 239, 293, 346, 400, 453, 506, 466, 415, 365, 314, 263, 213, 162, 112, 61, 11, 45, 96, 146, 197, 248, 298, 349, 399, 450, 500, 474, 426, 378, 330, 282, 234, 186, 138, 90, 42, 37, 85, 133, 181, 229, 277, 325, 373, 421, 469, 507, 461, 416, 370, 325, 280, 234, 189, 143, 98, 52, 7, 4, 50, 95, 141, 186, 231, 277, 322, 368, 413, 459, 504, 476, 432, 389, 346, 303, 260, 217, 174, 131, 88, 45, 2, 35, 79, 122, 165, 208, 251, 294, 337, 380, 423, 466, 509, 473, 432, 391, 350, 310, 269, 228, 187, 146, 106, 65, 24};$/;"	v
+mel_filter	testbench/c_codes/THUMB_codes/Mfcc/src/mel.c	/^MDATA mel_filter[] = {293, 387, 56, 124, 455, 251, 260, 452, 155, 59, 356, 377, 95, 134, 416, 335, 68, 176, 443, 323, 69, 188, 442, 338, 98, 173, 413, 377, 150, 134, 361, 438, 223, 7, 73, 288, 504, 314, 110, 197, 401, 423, 229, 35, 88, 282, 476, 362, 179, 149, 332, 507, 333, 159, 4, 178, 352, 498, 333, 169, 4, 13, 178, 342, 507, 359, 203, 47, 152, 308, 464, 408, 260, 112, 103, 251, 399, 478, 338, 198, 57, 33, 173, 313, 454, 433, 300, 167, 34, 78, 211, 344, 477, 419, 293, 166, 40, 92, 218, 345, 471, 431, 311, 192, 73, 80, 200, 319, 438, 468, 354, 241, 128, 15, 43, 157, 270, 383, 496, 419, 312, 204, 97, 92, 199, 307, 414, 502, 401, 299, 197, 96, 9, 110, 212, 314, 415, 506, 410, 313, 217, 121, 24, 5, 101, 198, 294, 390, 487, 444, 352, 261, 170, 79, 67, 159, 250, 341, 432, 500, 413, 327, 240, 154, 67, 11, 98, 184, 271, 357, 444, 494, 412, 330, 248, 166, 84, 2, 17, 99, 181, 263, 345, 427, 509, 436, 358, 280, 203, 125, 47, 75, 153, 231, 308, 386, 464, 483, 409, 336, 262, 188, 115, 41, 28, 102, 175, 249, 323, 396, 470, 481, 411, 341, 271, 202, 132, 62, 30, 100, 170, 240, 309, 379, 449, 505, 438, 372, 306, 240, 174, 108, 41, 6, 73, 139, 205, 271, 337, 403, 470, 489, 426, 363, 300, 238, 175, 112, 50, 22, 85, 148, 211, 273, 336, 399, 461, 500, 440, 381, 321, 262, 202, 143, 84, 24, 11, 71, 130, 190, 249, 309, 368, 427, 487, 479, 422, 366, 310, 253, 197, 141, 84, 28, 32, 89, 145, 201, 258, 314, 370, 427, 483, 485, 432, 378, 325, 272, 218, 165, 111, 58, 5, 26, 79, 133, 186, 239, 293, 346, 400, 453, 506, 466, 415, 365, 314, 263, 213, 162, 112, 61, 11, 45, 96, 146, 197, 248, 298, 349, 399, 450, 500, 474, 426, 378, 330, 282, 234, 186, 138, 90, 42, 37, 85, 133, 181, 229, 277, 325, 373, 421, 469, 507, 461, 416, 370, 325, 280, 234, 189, 143, 98, 52, 7, 4, 50, 95, 141, 186, 231, 277, 322, 368, 413, 459, 504, 476, 432, 389, 346, 303, 260, 217, 174, 131, 88, 45, 2, 35, 79, 122, 165, 208, 251, 294, 337, 380, 423, 466, 509, 473, 432, 391, 350, 310, 269, 228, 187, 146, 106, 65, 24};$/;"	v
+mem_dis	include/common.h	/^	int32u_t mem_dis;$/;"	m	struct:_handler_param
+memcpy	testbench/c_codes/ARM_codes/Dhry/src/dhry.c	/^memcpy (d, s, l)$/;"	f
+memcpy	testbench/c_codes/THUMB_codes/Dhry/src/dhry.c	/^memcpy (d, s, l)$/;"	f
+memcpy_corea2	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^int	memcpy_corea2	(u32*	out,	u32* in,	u32	bytes){$/;"	f
+memcpy_corea2	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^int	memcpy_corea2	(u32*	out,	u32* in,	u32	bytes){$/;"	f
+memset_corea2	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^int	memset_corea2	(u32* in,	u32 value,	u32	bytes){$/;"	f
+memset_corea2	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^int	memset_corea2	(u32* in,	u32 value,	u32	bytes){$/;"	f
+min_index	testbench/c_codes/ARM_codes/Mimo/src/mimo.c	/^int min_index __attribute__((section(".mimo")));$/;"	v
+min_index	testbench/c_codes/THUMB_codes/Mimo/src/mimo.c	/^int min_index __attribute__((section(".mimo")));$/;"	v
+mode	include/arm.h	/^	int32u_t mode;       	\/\/ Processor working modes$/;"	m	struct:_CPUState
+modular	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^u32	modular[33] = {$/;"	v
+modular	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^u32	modular[33] = {$/;"	v
+modular_inverse_RS	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^u32	modular_inverse_RS(u32* in1, u32* in2, u32* out, u32 mode, u32 num_word){$/;"	f
+modular_inverse_RS	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^u32	modular_inverse_RS(u32* in1, u32* in2, u32* out, u32 mode, u32 num_word){$/;"	f
+modulus	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^u32	modulus[33] = {$/;"	v
+modulus	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^u32	modulus[33] = {$/;"	v
+modulus_inverse	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^int	modulus_inverse(u32 *modulus, u32* out){$/;"	f
+modulus_inverse	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^int	modulus_inverse(u32 *modulus, u32* out){$/;"	f
+mont_result	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^u32 mont_result[33];\/\/	__attribute__((section(".mont_result")));$/;"	v
+mont_result	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^u32 mont_result[33];\/\/	__attribute__((section(".mont_result")));$/;"	v
+montgomery_mult	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^u32	montgomery_mult(u32* in1, u32* in2, u32* in3, u32*in4, u32* out, u32 num_word1, u32 num_word2, u32 num_word3){$/;"	f
+montgomery_mult	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^u32	montgomery_mult(u32* in1, u32* in2, u32* in3, u32*in4, u32* out, u32 num_word1, u32 num_word2, u32 num_word3){$/;"	f
+mov1	thumb/thumb1/thumb1.c	/^static void mov1()$/;"	f	file:
+mov2	thumb/thumb1/thumb1.c	/^static void mov2()$/;"	f	file:
+mul	thumb/thumb1/thumb1.c	/^static void mul()$/;"	f	file:
+mvn	thumb/thumb1/thumb1.c	/^static void mvn()$/;"	f	file:
+n	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	/^    unsigned int n;$/;"	m	struct:__anon1
+n	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	/^    unsigned int n;$/;"	m	struct:__anon7
+n1	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n1	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n10	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n10	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n11	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n11	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n2	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n2	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n3	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n3	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n4	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n4	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n6	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n6	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n7	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n7	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n8	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n8	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n9	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+n9	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^int		i, j, k, l, n1, n2, n3, n4, n6, n7, n8, n9, n10, n11;$/;"	v
+neg	thumb/thumb1/thumb1.c	/^static void neg() \/\/ not borrow from$/;"	f	file:
+numceps	testbench/c_codes/ARM_codes/Mfcc/src/util.h	25;"	d
+numceps	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	25;"	d
+numchans	testbench/c_codes/ARM_codes/Mfcc/src/util.h	26;"	d
+numchans	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	26;"	d
+numdata	testbench/c_codes/ARM_codes/Mfcc/src/util.h	33;"	d
+numdata	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	33;"	d
+numfft	testbench/c_codes/ARM_codes/Mfcc/src/util.h	24;"	d
+numfft	testbench/c_codes/THUMB_codes/Mfcc/src/util.h	24;"	d
+orr	thumb/thumb1/thumb1.c	/^static void orr()$/;"	f	file:
+output_in	testbench/c_codes/ARM_codes/Tree_traversal/src/inout.h	/^int output_in[16];$/;"	v
+output_in	testbench/c_codes/THUMB_codes/Tree_traversal/src/inout.h	/^int output_in[16];$/;"	v
+output_post	testbench/c_codes/ARM_codes/Tree_traversal/src/inout.h	/^int output_post[16];$/;"	v
+output_post	testbench/c_codes/THUMB_codes/Tree_traversal/src/inout.h	/^int output_post[16];$/;"	v
+output_pre	testbench/c_codes/ARM_codes/Tree_traversal/src/inout.h	/^int output_pre[16];$/;"	v
+output_pre	testbench/c_codes/THUMB_codes/Tree_traversal/src/inout.h	/^int output_pre[16];$/;"	v
+outputi	testbench/c_codes/ARM_codes/Dct/src/dct.c	/^int outputi[BLOCK_SIZE][BLOCK_SIZE];\/\/ __attribute__((section(".dct")));$/;"	v
+outputi	testbench/c_codes/THUMB_codes/Dct/src/dct.c	/^int outputi[BLOCK_SIZE][BLOCK_SIZE];\/\/ __attribute__((section(".dct")));$/;"	v
+overflowfrom	thumb/thumb1/thumb1.c	/^int32s_t overflowfrom(int32s_t a, int32s_t b, int32s_t c,  int32s_t add_sub)$/;"	f
+p0	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^p0()$/;"	f
+p0	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^p0()$/;"	f
+p3	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^p3(x, y, z)$/;"	f
+p3	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^p3(x, y, z)$/;"	f
+pa	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^pa(e)$/;"	f
+pa	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^pa(e)$/;"	f
+post_order	testbench/c_codes/ARM_codes/Tree_traversal/src/tree_traversal.c	/^void post_order (t_node * parent) {$/;"	f
+post_order	testbench/c_codes/THUMB_codes/Tree_traversal/src/tree_traversal.c	/^void post_order (t_node * parent) {$/;"	f
+pout	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^pout(n, j, k, x1, x2, x3, x4)$/;"	f
+pout	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^pout(n, j, k, x1, x2, x3, x4)$/;"	f
+pre	testbench/c_codes/ARM_codes/Mfcc/src/pre.c	/^void pre(MDATA* input, MDATA* output)$/;"	f
+pre	testbench/c_codes/THUMB_codes/Mfcc/src/pre.c	/^void pre(MDATA* input, MDATA* output)$/;"	f
+pre_order	testbench/c_codes/ARM_codes/Tree_traversal/src/tree_traversal.c	/^void pre_order (t_node * parent) {$/;"	f
+pre_order	testbench/c_codes/THUMB_codes/Tree_traversal/src/tree_traversal.c	/^void pre_order (t_node * parent) {$/;"	f
+primitive	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	/^unsigned int *primitive;$/;"	v
+primitive	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	/^unsigned int *primitive;$/;"	v
+print_0	testbench/c_codes/ARM_codes/Mfcc/src/mfcc.c	/^void print_0(int num)$/;"	f
+print_0	testbench/c_codes/THUMB_codes/Mfcc/src/mfcc.c	/^void print_0(int num)$/;"	f
+print_1	testbench/c_codes/ARM_codes/Mfcc/src/mfcc.c	/^void print_1(int num)$/;"	f
+print_1	testbench/c_codes/THUMB_codes/Mfcc/src/mfcc.c	/^void print_1(int num)$/;"	f
+prioriL1	testbench/c_codes/ARM_codes/Turbo/src/header/turbo_decoder.h	/^int prioriL1[CodeLen+3] = {0};$/;"	v
+prioriL2	testbench/c_codes/ARM_codes/Turbo/src/header/turbo_decoder.h	/^int prioriL2[CodeLen+3] = {0};$/;"	v
+qs_string_compare	testbench/c_codes/ARM_codes/Sorts/src/sorts.c	/^int qs_string_compare(const void *a, const void *b)$/;"	f
+qs_string_compare	testbench/c_codes/THUMB_codes/Sorts/src/sorts.c	/^int qs_string_compare(const void *a, const void *b)$/;"	f
+r	testbench/c_codes/ARM_codes/Turbo/src/header/turbo_decoder.h	/^int r[4][CodeLen+3] = {0};$/;"	v
+r13	include/arm.h	/^	int32u_t r13[5];        \/\/ R13 of 5 exception modes$/;"	m	struct:_CPUState
+r14	include/arm.h	/^	int32u_t r14[5];        \/\/ R14 of 5 exception modes$/;"	m	struct:_CPUState
+r_ch	testbench/c_codes/ARM_codes/Tree_traversal/src/tree_traversal.c	/^	struct tree_node * r_ch;$/;"	m	struct:tree_node	typeref:struct:tree_node::tree_node	file:
+r_ch	testbench/c_codes/THUMB_codes/Tree_traversal/src/tree_traversal.c	/^	struct tree_node * r_ch;$/;"	m	struct:tree_node	typeref:struct:tree_node::tree_node	file:
+r_max	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^int r_max, r_temp;$/;"	v
+r_temp	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^int r_max, r_temp;$/;"	v
+r_unit	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^int r_unit(int u, int p, int prioriL, int rcvu, int rcvp)$/;"	f
+randomise	testbench/c_codes/ARM_codes/Sorts/src/sorts.c	/^static void randomise(char *strings[], int n)$/;"	f	file:
+randomise	testbench/c_codes/THUMB_codes/Sorts/src/sorts.c	/^static void randomise(char *strings[], int n)$/;"	f	file:
+rcv	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^int rcv[3*(CodeLen+4)] = {2, 0, 2, -1, -2, 3, 3, -1, -2, -1, 0, 3, -2, -4, 0, 3, -2, -3, 2, -1, 0, -1, -3, -2, 1, -3, 0, 2, -4, -2, -2, 3, 0, 2, -4, 2, 3, 3, 3, 1, -3, 3, 3, -2, 0, 1, 0, 2, -3, 3, 1, 3, 2, -3, 3, 2, -3, -2, -2, 0, 2, 1, 1, 0, 3, -2, -1, -2, 1, 1, 1, 0, 0, -1, -1, 3, -1, 2, 0, 1, 3, 3, -3, 2, -2, -2, -1, 3, -4, 2, -1, 3, -1, 3, 3, 1, 0, -2, 3, 0, -1, -2, 3, -1, -3, 2, 3, -1, 3, 0, 3, 1, -4, 1, 3, 2, -2, 0, 1, 1, -3, 1, -4, 1, 1, 3, 2, 1, 0, -2, 2, 3};$/;"	v
+rcw	testbench/c_codes/ARM_codes/Mfcc/src/rcw.c	/^void rcw(MDATA* input, MDATA* output)$/;"	f
+rcw	testbench/c_codes/THUMB_codes/Mfcc/src/rcw.c	/^void rcw(MDATA* input, MDATA* output)$/;"	f
+rd	include/arm.h	/^	int32u_t* rd; 				\/\/ point to corresponding registers$/;"	m	struct:_instruction
+read_pcm	testbench/c_codes/ARM_codes/Mfcc/src/main.c	/^int read_pcm(char* filename)$/;"	f
+read_pcm	testbench/c_codes/THUMB_codes/Mfcc/src/main.c	/^int read_pcm(char* filename)$/;"	f
+record	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^typedef struct record $/;"	s
+record	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^typedef struct record $/;"	s
+regs	include/arm.h	/^	int32u_t regs[16];      \/\/ R0-R15 of SYS and USR mode$/;"	m	struct:_CPUState
+reset_counter	testbench/c_codes/ARM_codes/Mfcc/src/mfcc.c	/^void reset_counter()$/;"	f
+reset_counter	testbench/c_codes/THUMB_codes/Mfcc/src/mfcc.c	/^void reset_counter()$/;"	f
+result	testbench/c_codes/ARM_codes/Turbo/src/header/top.h	/^unsigned char result[CodeLen]; \/\/__attribute__((section(".result"))) = {0};$/;"	v
+rm	include/arm.h	/^	int32u_t* rm; 				\/\/ point to corresponding registers$/;"	m	struct:_instruction
+rn	include/arm.h	/^	int32u_t* rn; 				\/\/ point to corresponding registers$/;"	m	struct:_instruction
+root	testbench/c_codes/ARM_codes/Tree_traversal/src/tree_traversal.c	/^t_node * root;$/;"	v
+root	testbench/c_codes/THUMB_codes/Tree_traversal/src/tree_traversal.c	/^t_node * root;$/;"	v
+ror	thumb/thumb1/thumb1.c	/^static void ror()$/;"	f	file:
+rs	include/arm.h	/^	int32u_t* rs; 				\/\/ point to corresponding registers$/;"	m	struct:_instruction
+sbc	thumb/thumb1/thumb1.c	/^static void sbc()$/;"	f	file:
+shell_sort	testbench/c_codes/ARM_codes/Sorts/src/sorts.c	/^static void shell_sort(char *strings[], int n)$/;"	f	file:
+shell_sort	testbench/c_codes/THUMB_codes/Sorts/src/sorts.c	/^static void shell_sort(char *strings[], int n)$/;"	f	file:
+spsr	include/arm.h	/^	int32u_t spsr[5];  		\/\/ SPSR for 5 exception modes$/;"	m	struct:_CPUState
+start	include/common.h	/^	int32u_t start;$/;"	m	struct:_handler_param
+step	include/common.h	/^	int32u_t step;$/;"	m	struct:_handler_param
+stop	include/common.h	/^	int32u_t stop;$/;"	m	struct:_handler_param
+str2int	common/lib_string.c	/^int32u_t str2int(int8s_t *str, int32u_t radix)$/;"	f
+structassign	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	374;"	d
+structassign	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	376;"	d
+structassign	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	374;"	d
+structassign	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	376;"	d
+sub1	thumb/thumb1/thumb1.c	/^static void sub1()$/;"	f	file:
+sub2	thumb/thumb1/thumb1.c	/^static void sub2()$/;"	f	file:
+sub3	thumb/thumb1/thumb1.c	/^static void sub3() \/\/ NOT Borrowfrom$/;"	f	file:
+t	testbench/c_codes/ARM_codes/Galoisfield/src/main.h	/^    unsigned int t;$/;"	m	struct:__anon1
+t	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+t	testbench/c_codes/THUMB_codes/Galoisfield/src/main.h	/^    unsigned int t;$/;"	m	struct:__anon7
+t	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+t1	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+t1	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+t2	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+t2	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+t_node	testbench/c_codes/ARM_codes/Tree_traversal/src/tree_traversal.c	/^} t_node;$/;"	t	typeref:struct:tree_node	file:
+t_node	testbench/c_codes/THUMB_codes/Tree_traversal/src/tree_traversal.c	/^} t_node;$/;"	t	typeref:struct:tree_node	file:
+t_node_free	testbench/c_codes/ARM_codes/Tree_traversal/src/tree_traversal.c	/^void t_node_free (t_node *parent) {$/;"	f
+t_node_free	testbench/c_codes/THUMB_codes/Tree_traversal/src/tree_traversal.c	/^void t_node_free (t_node *parent) {$/;"	f
+temp	testbench/c_codes/ARM_codes/Dct/src/dct.c	/^int temp;$/;"	v
+temp	testbench/c_codes/THUMB_codes/Dct/src/dct.c	/^int temp;$/;"	v
+test_cond	include/arm.h	/^	int32u_t (*test_cond)(); 	\/\/ point to the test function$/;"	m	struct:_instruction
+test_var	testbench/c_codes/ARM_codes/Bubble_sort/src/bubble_sort.c	/^int test_var = 0;$/;"	v
+thumb1_decode	thumb/thumb1/thumb1.c	/^void thumb1_decode(int16u_t inst)$/;"	f
+thumb1_fetch	thumb/thumb1/thumb1.c	/^int16u_t thumb1_fetch()$/;"	f
+toascii	include/my_ctype.h	64;"	d
+tokenize	common/lib_string.c	/^int16u_t tokenize(int8s_t **token, int8s_t *string)$/;"	f
+tree_node	testbench/c_codes/ARM_codes/Tree_traversal/src/tree_traversal.c	/^typedef struct tree_node {$/;"	s	file:
+tree_node	testbench/c_codes/THUMB_codes/Tree_traversal/src/tree_traversal.c	/^typedef struct tree_node {$/;"	s	file:
+trellis	testbench/c_codes/ARM_codes/Turbo/src/header/top.h	/^unsigned int trellis[NumState][2][2];$/;"	v
+trellis_init	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^void trellis_init()$/;"	f
+true	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	401;"	d
+true	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	401;"	d
+tst	thumb/thumb1/thumb1.c	/^static void tst()$/;"	f	file:
+turbo_decoder	testbench/c_codes/ARM_codes/Turbo/src/turbo.c	/^int turbo_decoder()$/;"	f
+twiddle_img	testbench/c_codes/ARM_codes/Mfcc/src/dft.c	/^MDATA twiddle_img[] = {0, -6, -12, -18, -25, -31, -37, -43, -50, -56, -62, -68, -75, -81, -87, -93, -99, -106, -112, -118, -124, -130, -136, -142, -148, -154, -160, -166, -172, -178, -184, -190, -195, -201, -207, -213, -218, -224, -230, -235, -241, -246, -252, -257, -263, -268, -273, -279, -284, -289, -294, -299, -304, -310, -314, -319, -324, -329, -334, -339, -343, -348, -353, -357, -362, -366, -370, -375, -379, -383, -387, -391, -395, -399, -403, -407, -411, -414, -418, -422, -425, -429, -432, -435, -439, -442, -445, -448, -451, -454, -457, -460, -462, -465, -468, -470, -473, -475, -477, -479, -482, -484, -486, -488, -489, -491, -493, -495, -496, -498, -499, -500, -502, -503, -504, -505, -506, -507, -508, -508, -509, -510, -510, -511, -511, -511, -511, -511, -512, -511, -511, -511, -511, -511, -510, -510, -509, -508, -508, -507, -506, -505, -504, -503, -502, -500, -499, -498, -496, -495, -493, -491, -489, -488, -486, -484, -482, -479, -477, -475, -473, -470, -468, -465, -462, -460, -457, -454, -451, -448, -445, -442, -439, -435, -432, -429, -425, -422, -418, -414, -411, -407, -403, -399, -395, -391, -387, -383, -379, -375, -370, -366, -362, -357, -353, -348, -343, -339, -334, -329, -324, -319, -314, -310, -304, -299, -294, -289, -284, -279, -273, -268, -263, -257, -252, -246, -241, -235, -230, -224, -218, -213, -207, -201, -195, -190, -184, -178, -172, -166, -160, -154, -148, -142, -136, -130, -124, -118, -112, -106, -99, -93, -87, -81, -75, -68, -62, -56, -50, -43, -37, -31, -25, -18, -12, -6};$/;"	v
+twiddle_img	testbench/c_codes/THUMB_codes/Mfcc/src/dft.c	/^MDATA twiddle_img[] = {0, -6, -12, -18, -25, -31, -37, -43, -50, -56, -62, -68, -75, -81, -87, -93, -99, -106, -112, -118, -124, -130, -136, -142, -148, -154, -160, -166, -172, -178, -184, -190, -195, -201, -207, -213, -218, -224, -230, -235, -241, -246, -252, -257, -263, -268, -273, -279, -284, -289, -294, -299, -304, -310, -314, -319, -324, -329, -334, -339, -343, -348, -353, -357, -362, -366, -370, -375, -379, -383, -387, -391, -395, -399, -403, -407, -411, -414, -418, -422, -425, -429, -432, -435, -439, -442, -445, -448, -451, -454, -457, -460, -462, -465, -468, -470, -473, -475, -477, -479, -482, -484, -486, -488, -489, -491, -493, -495, -496, -498, -499, -500, -502, -503, -504, -505, -506, -507, -508, -508, -509, -510, -510, -511, -511, -511, -511, -511, -512, -511, -511, -511, -511, -511, -510, -510, -509, -508, -508, -507, -506, -505, -504, -503, -502, -500, -499, -498, -496, -495, -493, -491, -489, -488, -486, -484, -482, -479, -477, -475, -473, -470, -468, -465, -462, -460, -457, -454, -451, -448, -445, -442, -439, -435, -432, -429, -425, -422, -418, -414, -411, -407, -403, -399, -395, -391, -387, -383, -379, -375, -370, -366, -362, -357, -353, -348, -343, -339, -334, -329, -324, -319, -314, -310, -304, -299, -294, -289, -284, -279, -273, -268, -263, -257, -252, -246, -241, -235, -230, -224, -218, -213, -207, -201, -195, -190, -184, -178, -172, -166, -160, -154, -148, -142, -136, -130, -124, -118, -112, -106, -99, -93, -87, -81, -75, -68, -62, -56, -50, -43, -37, -31, -25, -18, -12, -6};$/;"	v
+twiddle_real	testbench/c_codes/ARM_codes/Mfcc/src/dft.c	/^MDATA twiddle_real[] = {512, 511, 511, 511, 511, 511, 510, 510, 509, 508, 508, 507, 506, 505, 504, 503, 502, 500, 499, 498, 496, 495, 493, 491, 489, 488, 486, 484, 482, 479, 477, 475, 473, 470, 468, 465, 462, 460, 457, 454, 451, 448, 445, 442, 439, 435, 432, 429, 425, 422, 418, 414, 411, 407, 403, 399, 395, 391, 387, 383, 379, 375, 370, 366, 362, 357, 353, 348, 343, 339, 334, 329, 324, 319, 314, 310, 304, 299, 294, 289, 284, 279, 273, 268, 263, 257, 252, 246, 241, 235, 230, 224, 218, 213, 207, 201, 195, 190, 184, 178, 172, 166, 160, 154, 148, 142, 136, 130, 124, 118, 112, 106, 99, 93, 87, 81, 75, 68, 62, 56, 50, 43, 37, 31, 25, 18, 12, 6, 0, -6, -12, -18, -25, -31, -37, -43, -50, -56, -62, -68, -75, -81, -87, -93, -99, -106, -112, -118, -124, -130, -136, -142, -148, -154, -160, -166, -172, -178, -184, -190, -195, -201, -207, -213, -218, -224, -230, -235, -241, -246, -252, -257, -263, -268, -273, -279, -284, -289, -294, -299, -304, -310, -314, -319, -324, -329, -334, -339, -343, -348, -353, -357, -362, -366, -370, -375, -379, -383, -387, -391, -395, -399, -403, -407, -411, -414, -418, -422, -425, -429, -432, -435, -439, -442, -445, -448, -451, -454, -457, -460, -462, -465, -468, -470, -473, -475, -477, -479, -482, -484, -486, -488, -489, -491, -493, -495, -496, -498, -499, -500, -502, -503, -504, -505, -506, -507, -508, -508, -509, -510, -510, -511, -511, -511, -511, -511};$/;"	v
+twiddle_real	testbench/c_codes/THUMB_codes/Mfcc/src/dft.c	/^MDATA twiddle_real[] = {512, 511, 511, 511, 511, 511, 510, 510, 509, 508, 508, 507, 506, 505, 504, 503, 502, 500, 499, 498, 496, 495, 493, 491, 489, 488, 486, 484, 482, 479, 477, 475, 473, 470, 468, 465, 462, 460, 457, 454, 451, 448, 445, 442, 439, 435, 432, 429, 425, 422, 418, 414, 411, 407, 403, 399, 395, 391, 387, 383, 379, 375, 370, 366, 362, 357, 353, 348, 343, 339, 334, 329, 324, 319, 314, 310, 304, 299, 294, 289, 284, 279, 273, 268, 263, 257, 252, 246, 241, 235, 230, 224, 218, 213, 207, 201, 195, 190, 184, 178, 172, 166, 160, 154, 148, 142, 136, 130, 124, 118, 112, 106, 99, 93, 87, 81, 75, 68, 62, 56, 50, 43, 37, 31, 25, 18, 12, 6, 0, -6, -12, -18, -25, -31, -37, -43, -50, -56, -62, -68, -75, -81, -87, -93, -99, -106, -112, -118, -124, -130, -136, -142, -148, -154, -160, -166, -172, -178, -184, -190, -195, -201, -207, -213, -218, -224, -230, -235, -241, -246, -252, -257, -263, -268, -273, -279, -284, -289, -294, -299, -304, -310, -314, -319, -324, -329, -334, -339, -343, -348, -353, -357, -362, -366, -370, -375, -379, -383, -387, -391, -395, -399, -403, -407, -411, -414, -418, -422, -425, -429, -432, -435, -439, -442, -445, -448, -451, -454, -457, -460, -462, -465, -468, -470, -473, -475, -477, -479, -482, -484, -486, -488, -489, -491, -493, -495, -496, -498, -499, -500, -502, -503, -504, -505, -506, -507, -508, -508, -509, -510, -510, -511, -511, -511, -511, -511};$/;"	v
+u16	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^typedef	unsigned short	u16;$/;"	t	file:
+u16	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^typedef	unsigned short	u16;$/;"	t	file:
+u32	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^typedef	unsigned int	u32;$/;"	t	file:
+u32	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^typedef	unsigned int	u32;$/;"	t	file:
+u4	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^typedef	unsigned char	u4;$/;"	t	file:
+u4	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^typedef	unsigned char	u4;$/;"	t	file:
+u64	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^typedef	unsigned long long u64;$/;"	t	file:
+u64	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^typedef	unsigned long long u64;$/;"	t	file:
+u8	testbench/c_codes/ARM_codes/Modular_square/src/modular_square.c	/^typedef	unsigned char	u8;$/;"	t	file:
+u8	testbench/c_codes/THUMB_codes/Modular_square/src/modular_square.c	/^typedef	unsigned char	u8;$/;"	t	file:
+val	testbench/c_codes/ARM_codes/Tree_traversal/src/tree_traversal.c	/^	int val;$/;"	m	struct:tree_node	file:
+val	testbench/c_codes/THUMB_codes/Tree_traversal/src/tree_traversal.c	/^	int val;$/;"	m	struct:tree_node	file:
+var_1	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^                  } var_1;$/;"	m	union:record::__anon3	typeref:struct:record::__anon3::__anon4
+var_1	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^                  } var_1;$/;"	m	union:record::__anon9	typeref:struct:record::__anon9::__anon10
+var_2	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^                  } var_2;$/;"	m	union:record::__anon3	typeref:struct:record::__anon3::__anon5
+var_2	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^                  } var_2;$/;"	m	union:record::__anon9	typeref:struct:record::__anon9::__anon11
+var_3	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^                  } var_3;$/;"	m	union:record::__anon3	typeref:struct:record::__anon3::__anon6
+var_3	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^                  } var_3;$/;"	m	union:record::__anon9	typeref:struct:record::__anon9::__anon12
+variant	testbench/c_codes/ARM_codes/Dhry/src/dhry.h	/^          } variant;$/;"	m	struct:record	typeref:union:record::__anon3
+variant	testbench/c_codes/THUMB_codes/Dhry/src/dhry.h	/^          } variant;$/;"	m	struct:record	typeref:union:record::__anon9
+verbose	include/common.h	/^	int32u_t verbose;$/;"	m	struct:_handler_param
+viewlogo	main/main.c	/^int viewlogo()$/;"	f
+x	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+x	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+x1	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+x1	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+x2	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+x2	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+x3	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+x3	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+x4	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+x4	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+y	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+y	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+z	testbench/c_codes/ARM_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
+z	testbench/c_codes/THUMB_codes/Whetstone/src/whetstone.c	/^double		x1, x2, x3, x4, x, y, z, t, t1, t2;$/;"	v
